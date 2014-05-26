@@ -2508,3 +2508,24 @@ Graph data/graphLib/freq/graph04.dgf (v=200,e=734).
 new bw: 9223372036854775807 -> 647681068236
 time: 1786148
 Graph data/graphLib/freq/graph06.dgf (v=200,e=843).
+new bw: 9223372036854775807 -> 2248844876185
+time: 1666482
+Graph data/graphLib/freq/graph07.dgf (v=200,e=843).
+new bw: 9223372036854775807 -> 896789171404
+time: 1653940
+Graph data/graphLib/coloring/zeroin.i.3.dgf (v=206,e=3540).
+new bw: 9223372036854775807 -> 131
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.3.dgf(v=206,e=3540))): 2^bw=131, bw=7.03
+time: 1700482
+Graph data/graphLib/delauney/pr299.tsp-pp.dgf-002.dgf (v=207,e=599).
+new bw: 9223372036854775807 -> 1194537779
+time: 1726152
+Graph data/graphLib/coloring/zeroin.i.1.dgf (v=211,e=4100).
+new bw: 9223372036854775807 -> 67
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.1.dgf(v=211,e=4100))): 2^bw=67, bw=6.07
+time: 1886806
+Graph data/graphLib/coloring/zeroin.i.2.dgf (v=211,e=3541).
+new bw: 9223372036854775807 -> 150
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.2.dgf(v=211,e=3541))): 2^bw=150, bw=7.23
+time: 1886525
+Graph data/graphLib/delauney/tsp225.tsp-pp.dgf (v=214,e=600).
