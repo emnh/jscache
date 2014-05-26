@@ -1,0 +1,2510 @@
+Graph data/graphLib/other/petersen.dgf (v=10,e=15).
+new bw: 9223372036854775807 -> 8
+boolean-width(decomposition(data/graphLib/other/petersen.dgf(v=10,e=15))): 2^bw=8, bw=3.00
+time: 10307
+Graph data/graphLib_ours/new/10bw9.dimacs (v=10,e=20).
+new bw: 9223372036854775807 -> 10
+new bw: 10 -> 9
+boolean-width(decomposition(data/graphLib_ours/new/10bw9.dimacs(v=10,e=20))): 2^bw=9, bw=3.17
+time: 10408
+Graph data/graphLib/coloring/myciel3.dgf (v=11,e=20).
+new bw: 9223372036854775807 -> 9
+new bw: 9 -> 8
+boolean-width(decomposition(data/graphLib/coloring/myciel3.dgf(v=11,e=20))): 2^bw=8, bw=3.00
+time: 10177
+Graph data/graphLib/protein/1fjl_graph-pp.dimacs-003.dgf (v=11,e=47).
+new bw: 9223372036854775807 -> 5
+new bw: 5 -> 4
+new bw: 4 -> 3
+boolean-width(decomposition(data/graphLib/protein/1fjl_graph-pp.dimacs-003.dgf(v=11,e=47))): 2^bw=3, bw=1.58
+time: 10172
+Graph data/graphLib_ours/hsugrid/hsu-4x3.dimacs (v=12,e=29).
+new bw: 9223372036854775807 -> 7
+new bw: 7 -> 5
+boolean-width(decomposition(data/graphLib_ours/hsugrid/hsu-4x3.dimacs(v=12,e=29))): 2^bw=5, bw=2.32
+time: 10180
+Graph data/graphLib/prob/pathfinder-pp.dgf (v=12,e=43).
+new bw: 9223372036854775807 -> 10
+new bw: 10 -> 9
+new bw: 9 -> 8
+new bw: 8 -> 7
+boolean-width(decomposition(data/graphLib/prob/pathfinder-pp.dgf(v=12,e=43))): 2^bw=7, bw=2.81
+time: 10166
+Graph data/graphLib/prob/oesoca+-hugin-pp.dgf (v=14,e=75).
+new bw: 9223372036854775807 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob/oesoca+-hugin-pp.dgf(v=14,e=75))): 2^bw=4, bw=2.00
+time: 10170
+Graph data/graphLib/prob/fungiuk.dgf (v=15,e=36).
+new bw: 9223372036854775807 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob/fungiuk.dgf(v=15,e=36))): 2^bw=4, bw=2.00
+time: 10204
+Graph data/graphLib/prob/mildew-wpp.dgf (v=15,e=31).
+new bw: 9223372036854775807 -> 12
+new bw: 12 -> 8
+new bw: 8 -> 7
+new bw: 7 -> 6
+boolean-width(decomposition(data/graphLib/prob/mildew-wpp.dgf(v=15,e=31))): 2^bw=6, bw=2.58
+time: 10212
+Graph data/graphLib/prob/weeduk.dgf (v=15,e=49).
+new bw: 9223372036854775807 -> 6
+new bw: 6 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob/weeduk.dgf(v=15,e=49))): 2^bw=4, bw=2.00
+time: 10176
+Graph data/graphLib/freq/celar06-pp.dgf (v=16,e=101).
+new bw: 9223372036854775807 -> 4
+new bw: 4 -> 3
+boolean-width(decomposition(data/graphLib/freq/celar06-pp.dgf(v=16,e=101))): 2^bw=3, bw=1.58
+time: 10184
+Graph data/graphLib/other/Clebsch.dgf (v=16,e=40).
+new bw: 9223372036854775807 -> 25
+new bw: 25 -> 22
+new bw: 22 -> 16
+boolean-width(decomposition(data/graphLib/other/Clebsch.dgf(v=16,e=40))): 2^bw=16, bw=4.00
+time: 10168
+Graph data/graphLib_ours/hsugrid/hsu-4x4.dimacs (v=16,e=42).
+new bw: 9223372036854775807 -> 9
+new bw: 9 -> 7
+new bw: 7 -> 6
+boolean-width(decomposition(data/graphLib_ours/hsugrid/hsu-4x4.dimacs(v=16,e=42))): 2^bw=6, bw=2.58
+time: 10212
+Graph data/graphLib/prob/munin_kgo_complete-pp.dgf (v=16,e=41).
+new bw: 9223372036854775807 -> 7
+new bw: 7 -> 6
+new bw: 6 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob/munin_kgo_complete-pp.dgf(v=16,e=41))): 2^bw=4, bw=2.00
+time: 10168
+Graph data/graphLib/prob/oow_bas-wpp.dgf (v=17,e=35).
+new bw: 9223372036854775807 -> 13
+new bw: 13 -> 12
+new bw: 12 -> 8
+new bw: 8 -> 7
+boolean-width(decomposition(data/graphLib/prob/oow_bas-wpp.dgf(v=17,e=35))): 2^bw=7, bw=2.81
+time: 10167
+Graph data/graphLib/other/risk-pp.dgf (v=18,e=40).
+new bw: 9223372036854775807 -> 16
+new bw: 16 -> 14
+new bw: 14 -> 10
+boolean-width(decomposition(data/graphLib/other/risk-pp.dgf(v=18,e=40))): 2^bw=10, bw=3.32
+time: 10168
+Graph data/graphLib/freq/celar02-pp.dgf (v=19,e=115).
+new bw: 9223372036854775807 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/freq/celar02-pp.dgf(v=19,e=115))): 2^bw=4, bw=2.00
+time: 10184
+Graph data/graphLib_ours/hsugrid/hsu-5x4.dimacs (v=20,e=61).
+new bw: 9223372036854775807 -> 15
+new bw: 15 -> 14
+new bw: 14 -> 11
+new bw: 11 -> 9
+new bw: 9 -> 7
+boolean-width(decomposition(data/graphLib_ours/hsugrid/hsu-5x4.dimacs(v=20,e=61))): 2^bw=7, bw=2.81
+time: 10175
+Graph data/graphLib_ours/new/max.dimacs (v=20,e=189).
+new bw: 9223372036854775807 -> 2
+boolean-width(decomposition(data/graphLib_ours/new/max.dimacs(v=20,e=189))): 2^bw=2, bw=1.00
+time: 10200
+Graph data/graphLib/prob/wilson-hugin.dgf (v=21,e=27).
+new bw: 9223372036854775807 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob/wilson-hugin.dgf(v=21,e=27))): 2^bw=4, bw=2.00
+time: 10175
+Graph data/graphLib/coloring/anna-pp.dgf (v=22,e=148).
+new bw: 9223372036854775807 -> 21
+new bw: 21 -> 20
+new bw: 20 -> 16
+new bw: 16 -> 15
+new bw: 15 -> 13
+new bw: 13 -> 12
+boolean-width(decomposition(data/graphLib/coloring/anna-pp.dgf(v=22,e=148))): 2^bw=12, bw=3.58
+time: 10199
+Graph data/graphLib/prob/water-pp.dgf (v=22,e=96).
+new bw: 9223372036854775807 -> 27
+new bw: 27 -> 23
+new bw: 23 -> 21
+boolean-width(decomposition(data/graphLib/prob/water-pp.dgf(v=22,e=96))): 2^bw=21, bw=4.39
+time: 10186
+Graph data/graphLib/prob/water-wpp.dgf (v=22,e=96).
+new bw: 9223372036854775807 -> 22
+new bw: 22 -> 21
+new bw: 21 -> 19
+boolean-width(decomposition(data/graphLib/prob/water-wpp.dgf(v=22,e=96))): 2^bw=19, bw=4.25
+time: 10190
+Graph data/graphLib/coloring/myciel4.dgf (v=23,e=71).
+new bw: 9223372036854775807 -> 44
+new bw: 44 -> 43
+new bw: 43 -> 42
+new bw: 42 -> 40
+new bw: 40 -> 35
+new bw: 35 -> 34
+new bw: 34 -> 33
+boolean-width(decomposition(data/graphLib/coloring/myciel4.dgf(v=23,e=71))): 2^bw=33, bw=5.04
+time: 10188
+Graph data/graphLib/prob/oow-trad-pp.dgf (v=23,e=54).
+new bw: 9223372036854775807 -> 40
+new bw: 40 -> 30
+new bw: 30 -> 27
+new bw: 27 -> 26
+new bw: 26 -> 24
+new bw: 24 -> 23
+new bw: 23 -> 21
+new bw: 21 -> 18
+new bw: 18 -> 16
+new bw: 16 -> 15
+new bw: 15 -> 14
+boolean-width(decomposition(data/graphLib/prob/oow-trad-pp.dgf(v=23,e=54))): 2^bw=14, bw=3.81
+time: 10196
+Graph data/graphLib/prob2/BN_28.dgf (v=24,e=49).
+new bw: 9223372036854775807 -> 8
+new bw: 8 -> 7
+new bw: 7 -> 6
+new bw: 6 -> 5
+new bw: 5 -> 4
+boolean-width(decomposition(data/graphLib/prob2/BN_28.dgf(v=24,e=49))): 2^bw=4, bw=2.00
+time: 10188
+Graph data/graphLib/prob2/BN_29.dgf (v=24,e=49).
+new bw: 9223372036854775807 -> 11
+new bw: 11 -> 9
+new bw: 9 -> 8
+new bw: 8 -> 7
+new bw: 7 -> 5
+boolean-width(decomposition(data/graphLib/prob2/BN_29.dgf(v=24,e=49))): 2^bw=5, bw=2.32
+time: 10183
+warning: "data/graphLib/coloring/queen5_5.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen5_5.dgf (v=25,e=160).
+new bw: 9223372036854775807 -> 51
+new bw: 51 -> 48
+new bw: 48 -> 44
+new bw: 44 -> 42
+boolean-width(decomposition(data/graphLib/coloring/queen5_5.dgf(v=25,e=160))): 2^bw=42, bw=5.39
+time: 10205
+Graph data/graphLib_ours/hsugrid/hsu-5x5.dimacs (v=25,e=80).
+new bw: 9223372036854775807 -> 18
+new bw: 18 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 14
+new bw: 14 -> 13
+new bw: 13 -> 12
+boolean-width(decomposition(data/graphLib_ours/hsugrid/hsu-5x5.dimacs(v=25,e=80))): 2^bw=12, bw=3.58
+time: 10188
+Graph data/graphLib/prob/oow-trad-wpp.dgf (v=25,e=57).
+new bw: 9223372036854775807 -> 36
+new bw: 36 -> 20
+new bw: 20 -> 16
+boolean-width(decomposition(data/graphLib/prob/oow-trad-wpp.dgf(v=25,e=57))): 2^bw=16, bw=4.00
+time: 10194
+Graph data/graphLib/prob/barley-pp.dgf (v=26,e=78).
+new bw: 9223372036854775807 -> 27
+new bw: 27 -> 21
+new bw: 21 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 16
+new bw: 16 -> 14
+boolean-width(decomposition(data/graphLib/prob/barley-pp.dgf(v=26,e=78))): 2^bw=14, bw=3.81
+time: 10188
+Graph data/graphLib/prob/oow_bas.dgf (v=27,e=54).
+new bw: 9223372036854775807 -> 36
+new bw: 36 -> 32
+new bw: 32 -> 29
+new bw: 29 -> 28
+new bw: 28 -> 26
+new bw: 26 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 16
+new bw: 16 -> 15
+new bw: 15 -> 14
+new bw: 14 -> 13
+boolean-width(decomposition(data/graphLib/prob/oow_bas.dgf(v=27,e=54))): 2^bw=13, bw=3.70
+time: 10191
+Graph data/graphLib/prob/oow_solo-pp.dgf (v=27,e=63).
+new bw: 9223372036854775807 -> 28
+new bw: 28 -> 24
+new bw: 24 -> 22
+new bw: 22 -> 21
+new bw: 21 -> 18
+new bw: 18 -> 17
+new bw: 17 -> 15
+new bw: 15 -> 14
+boolean-width(decomposition(data/graphLib/prob/oow_solo-pp.dgf(v=27,e=63))): 2^bw=14, bw=3.81
+time: 10191
+Graph data/graphLib/prob/oesoca+-hugin-wpp.dgf (v=28,e=135).
+new bw: 9223372036854775807 -> 31
+new bw: 31 -> 30
+new bw: 30 -> 27
+new bw: 27 -> 25
+new bw: 25 -> 24
+new bw: 24 -> 22
+new bw: 22 -> 20
+new bw: 20 -> 19
+new bw: 19 -> 18
+new bw: 18 -> 17
+boolean-width(decomposition(data/graphLib/prob/oesoca+-hugin-wpp.dgf(v=28,e=135))): 2^bw=17, bw=4.09
+time: 10204
+Graph data/graphLib/coloring/david-pp.dgf (v=29,e=191).
+new bw: 9223372036854775807 -> 63
+new bw: 63 -> 36
+new bw: 36 -> 26
+new bw: 26 -> 25
+new bw: 25 -> 22
+new bw: 22 -> 21
+new bw: 21 -> 20
+new bw: 20 -> 19
+boolean-width(decomposition(data/graphLib/coloring/david-pp.dgf(v=29,e=191))): 2^bw=19, bw=4.25
+time: 10213
+Graph data/graphLib/prob2/BN_80-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 24
+new bw: 24 -> 21
+new bw: 21 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 17
+boolean-width(decomposition(data/graphLib/prob2/BN_80-pp.dgf(v=29,e=287))): 2^bw=17, bw=4.09
+time: 10226
+Graph data/graphLib/prob2/BN_81-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 20
+new bw: 20 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 15
+boolean-width(decomposition(data/graphLib/prob2/BN_81-pp.dgf(v=29,e=287))): 2^bw=15, bw=3.91
+time: 10230
+Graph data/graphLib/prob2/BN_82-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 18
+new bw: 18 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 15
+boolean-width(decomposition(data/graphLib/prob2/BN_82-pp.dgf(v=29,e=287))): 2^bw=15, bw=3.91
+time: 10234
+Graph data/graphLib/prob2/BN_83-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 20
+new bw: 20 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 15
+boolean-width(decomposition(data/graphLib/prob2/BN_83-pp.dgf(v=29,e=287))): 2^bw=15, bw=3.91
+time: 10238
+Graph data/graphLib/prob2/BN_84-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 23
+new bw: 23 -> 22
+new bw: 22 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 15
+boolean-width(decomposition(data/graphLib/prob2/BN_84-pp.dgf(v=29,e=287))): 2^bw=15, bw=3.91
+time: 10232
+Graph data/graphLib/prob2/BN_85-pp.dgf (v=29,e=287).
+new bw: 9223372036854775807 -> 20
+new bw: 20 -> 17
+new bw: 17 -> 16
+new bw: 16 -> 15
+boolean-width(decomposition(data/graphLib/prob2/BN_85-pp.dgf(v=29,e=287))): 2^bw=15, bw=3.91
+time: 10230
+Graph data/graphLib/prob/barley-wpp.dgf (v=29,e=83).
+new bw: 9223372036854775807 -> 32
+new bw: 32 -> 29
+new bw: 29 -> 24
+new bw: 24 -> 21
+new bw: 21 -> 20
+boolean-width(decomposition(data/graphLib/prob/barley-wpp.dgf(v=29,e=83))): 2^bw=20, bw=4.32
+time: 10196
+Graph data/graphLib/prob/oow_solo-wpp.dgf (v=29,e=66).
+new bw: 9223372036854775807 -> 40
+new bw: 40 -> 33
+new bw: 33 -> 30
+new bw: 30 -> 24
+new bw: 24 -> 21
+new bw: 21 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 16
+boolean-width(decomposition(data/graphLib/prob/oow_solo-wpp.dgf(v=29,e=66))): 2^bw=16, bw=4.00
+time: 10201
+Graph data/graphLib/freq/celar02-wpp.dgf (v=30,e=144).
+new bw: 9223372036854775807 -> 13
+new bw: 13 -> 12
+new bw: 12 -> 11
+new bw: 11 -> 9
+new bw: 9 -> 8
+boolean-width(decomposition(data/graphLib/freq/celar02-wpp.dgf(v=30,e=144))): 2^bw=8, bw=3.00
+time: 10227
+Graph data/graphLib_ours/hsugrid/hsu-6x5.dimacs (v=30,e=109).
+new bw: 9223372036854775807 -> 25
+new bw: 25 -> 24
+new bw: 24 -> 23
+new bw: 23 -> 22
+new bw: 22 -> 21
+new bw: 21 -> 19
+new bw: 19 -> 18
+new bw: 18 -> 17
+new bw: 17 -> 16
+boolean-width(decomposition(data/graphLib_ours/hsugrid/hsu-6x5.dimacs(v=30,e=109))): 2^bw=16, bw=4.00
+time: 10202
+Graph data/graphLib/prob/ship-ship-pp.dgf (v=30,e=77).
+new bw: 9223372036854775807 -> 83
+new bw: 83 -> 75
+new bw: 75 -> 73
+new bw: 73 -> 66
+new bw: 66 -> 50
+new bw: 50 -> 49
+new bw: 49 -> 48
+new bw: 48 -> 46
+boolean-width(decomposition(data/graphLib/prob/ship-ship-pp.dgf(v=30,e=77))): 2^bw=46, bw=5.52
+time: 10196
+Graph data/graphLib/prob/water.dgf (v=32,e=123).
+new bw: 9223372036854775807 -> 56
+new bw: 56 -> 55
+new bw: 55 -> 54
+new bw: 54 -> 45
+new bw: 45 -> 44
+new bw: 44 -> 41
+new bw: 41 -> 32
+new bw: 32 -> 31
+new bw: 31 -> 30
+new bw: 30 -> 29
+new bw: 29 -> 28
+new bw: 28 -> 27
+boolean-width(decomposition(data/graphLib/prob/water.dgf(v=32,e=123))): 2^bw=27, bw=4.75
+time: 10210
+Graph data/graphLib/prob2/BN_78-pp.dgf (v=33,e=174).
+new bw: 9223372036854775807 -> 160
+new bw: 160 -> 151
+new bw: 151 -> 149
+new bw: 149 -> 129
+new bw: 129 -> 123
+new bw: 123 -> 117
+new bw: 117 -> 111
+new bw: 111 -> 101
+new bw: 101 -> 87
+new bw: 87 -> 81
+new bw: 81 -> 79
+new bw: 79 -> 73
+boolean-width(decomposition(data/graphLib/prob2/BN_78-pp.dgf(v=33,e=174))): 2^bw=73, bw=6.19
+time: 10215
+Graph data/graphLib/prob2/BN_79-pp.dgf (v=33,e=174).
+new bw: 9223372036854775807 -> 192
+new bw: 192 -> 191
+new bw: 191 -> 172
+new bw: 172 -> 146
+new bw: 146 -> 143
+new bw: 143 -> 111
+new bw: 111 -> 110
+new bw: 110 -> 102
+new bw: 102 -> 100
+new bw: 100 -> 96
+new bw: 96 -> 93
+new bw: 93 -> 90
+new bw: 90 -> 87
+new bw: 87 -> 83
+new bw: 83 -> 78
+new bw: 78 -> 76
+boolean-width(decomposition(data/graphLib/prob2/BN_79-pp.dgf(v=33,e=174))): 2^bw=76, bw=6.25
+time: 10221
+Graph data/graphLib/prob/oow-trad.dgf (v=33,e=72).
+new bw: 9223372036854775807 -> 48
+new bw: 48 -> 24
+new bw: 24 -> 22
+new bw: 22 -> 20
+new bw: 20 -> 18
+boolean-width(decomposition(data/graphLib/prob/oow-trad.dgf(v=33,e=72))): 2^bw=18, bw=4.17
+time: 10206
+Graph data/graphLib/freq/celar06-wpp.dgf (v=34,e=156).
+new bw: 9223372036854775807 -> 46
+new bw: 46 -> 45
+new bw: 45 -> 29
+new bw: 29 -> 28
+new bw: 28 -> 27
+new bw: 27 -> 25
+new bw: 25 -> 24
+new bw: 24 -> 23
+new bw: 23 -> 20
+new bw: 20 -> 18
+new bw: 18 -> 16
+new bw: 16 -> 14
+new bw: 14 -> 12
+boolean-width(decomposition(data/graphLib/freq/celar06-wpp.dgf(v=34,e=156))): 2^bw=12, bw=3.58
+time: 10227
+Graph data/graphLib/protein/1bx7_graph-pp.dimacs (v=34,e=172).
+new bw: 9223372036854775807 -> 69
+new bw: 69 -> 55
+new bw: 55 -> 48
+new bw: 48 -> 45
+new bw: 45 -> 44
+boolean-width(decomposition(data/graphLib/protein/1bx7_graph-pp.dimacs(v=34,e=172))): 2^bw=44, bw=5.46
+time: 10217
+Graph data/graphLib/prob/mildew.dgf (v=35,e=80).
+new bw: 9223372036854775807 -> 36
+new bw: 36 -> 32
+new bw: 32 -> 30
+new bw: 30 -> 15
+new bw: 15 -> 12
+new bw: 12 -> 10
+new bw: 10 -> 9
+new bw: 9 -> 8
+boolean-width(decomposition(data/graphLib/prob/mildew.dgf(v=35,e=80))): 2^bw=8, bw=3.00
+time: 10288
+warning: "data/graphLib/coloring/queen6_6.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen6_6.dgf (v=36,e=290).
+new bw: 9223372036854775807 -> 300
+new bw: 300 -> 261
+new bw: 261 -> 259
+new bw: 259 -> 257
+new bw: 257 -> 249
+new bw: 249 -> 243
+new bw: 243 -> 239
+new bw: 239 -> 230
+new bw: 230 -> 227
+new bw: 227 -> 216
+boolean-width(decomposition(data/graphLib/coloring/queen6_6.dgf(v=36,e=290))): 2^bw=216, bw=7.75
+time: 10232
+Graph data/graphLib/prob/alarm.dgf (v=37,e=65).
+new bw: 9223372036854775807 -> 32
+new bw: 32 -> 24
+new bw: 24 -> 16
+new bw: 16 -> 12
+new bw: 12 -> 10
+new bw: 10 -> 8
+new bw: 8 -> 6
+boolean-width(decomposition(data/graphLib/prob/alarm.dgf(v=37,e=65))): 2^bw=6, bw=2.58
+time: 10193
+Graph data/graphLib/prob2/BN_86-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 50
+new bw: 50 -> 45
+new bw: 45 -> 44
+new bw: 44 -> 43
+new bw: 43 -> 39
+boolean-width(decomposition(data/graphLib/prob2/BN_86-pp.dgf(v=38,e=394))): 2^bw=39, bw=5.29
+time: 10235
+Graph data/graphLib/prob2/BN_87-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 69
+new bw: 69 -> 60
+new bw: 60 -> 55
+new bw: 55 -> 51
+new bw: 51 -> 46
+new bw: 46 -> 45
+new bw: 45 -> 42
+new bw: 42 -> 40
+new bw: 40 -> 39
+boolean-width(decomposition(data/graphLib/prob2/BN_87-pp.dgf(v=38,e=394))): 2^bw=39, bw=5.29
+time: 10235
+Graph data/graphLib/prob2/BN_88-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 71
+new bw: 71 -> 69
+new bw: 69 -> 68
+new bw: 68 -> 55
+new bw: 55 -> 48
+new bw: 48 -> 46
+new bw: 46 -> 44
+new bw: 44 -> 39
+new bw: 39 -> 38
+boolean-width(decomposition(data/graphLib/prob2/BN_88-pp.dgf(v=38,e=394))): 2^bw=38, bw=5.25
+time: 10354
+Graph data/graphLib/prob2/BN_89-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 58
+new bw: 58 -> 57
+new bw: 57 -> 55
+new bw: 55 -> 50
+new bw: 50 -> 47
+new bw: 47 -> 45
+new bw: 45 -> 42
+new bw: 42 -> 41
+new bw: 41 -> 36
+boolean-width(decomposition(data/graphLib/prob2/BN_89-pp.dgf(v=38,e=394))): 2^bw=36, bw=5.17
+time: 10238
+Graph data/graphLib/prob2/BN_90-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 65
+new bw: 65 -> 52
+new bw: 52 -> 50
+new bw: 50 -> 44
+new bw: 44 -> 41
+new bw: 41 -> 39
+boolean-width(decomposition(data/graphLib/prob2/BN_90-pp.dgf(v=38,e=394))): 2^bw=39, bw=5.29
+time: 10236
+Graph data/graphLib/prob2/BN_91-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 83
+new bw: 83 -> 82
+new bw: 82 -> 79
+new bw: 79 -> 74
+new bw: 74 -> 72
+new bw: 72 -> 63
+new bw: 63 -> 61
+new bw: 61 -> 58
+new bw: 58 -> 55
+new bw: 55 -> 51
+new bw: 51 -> 49
+new bw: 49 -> 47
+new bw: 47 -> 45
+new bw: 45 -> 44
+new bw: 44 -> 43
+new bw: 43 -> 41
+new bw: 41 -> 40
+boolean-width(decomposition(data/graphLib/prob2/BN_91-pp.dgf(v=38,e=394))): 2^bw=40, bw=5.32
+time: 10236
+Graph data/graphLib/prob2/BN_92-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 86
+new bw: 86 -> 73
+new bw: 73 -> 63
+new bw: 63 -> 59
+new bw: 59 -> 57
+new bw: 57 -> 56
+new bw: 56 -> 43
+new bw: 43 -> 42
+boolean-width(decomposition(data/graphLib/prob2/BN_92-pp.dgf(v=38,e=394))): 2^bw=42, bw=5.39
+time: 10235
+Graph data/graphLib/prob2/BN_93-pp.dgf (v=38,e=394).
+new bw: 9223372036854775807 -> 61
+new bw: 61 -> 60
+new bw: 60 -> 58
+new bw: 58 -> 55
+new bw: 55 -> 54
+new bw: 54 -> 53
+new bw: 53 -> 47
+new bw: 47 -> 42
+new bw: 42 -> 41
+new bw: 41 -> 39
+new bw: 39 -> 36
+new bw: 36 -> 35
+boolean-width(decomposition(data/graphLib/prob2/BN_93-pp.dgf(v=38,e=394))): 2^bw=35, bw=5.13
+time: 10267
+Graph data/graphLib/prob/ship-ship-wpp.dgf (v=38,e=91).
+new bw: 9223372036854775807 -> 121
+new bw: 121 -> 110
+new bw: 110 -> 102
+new bw: 102 -> 89
+new bw: 89 -> 76
+new bw: 76 -> 72
+new bw: 72 -> 58
+new bw: 58 -> 52
+new bw: 52 -> 50
+boolean-width(decomposition(data/graphLib/prob/ship-ship-wpp.dgf(v=38,e=91))): 2^bw=50, bw=5.64
+time: 10206
+Graph data/graphLib/prob/vsd-hugin.dgf (v=38,e=62).
+new bw: 9223372036854775807 -> 40
+new bw: 40 -> 32
+new bw: 32 -> 27
+new bw: 27 -> 16
+new bw: 16 -> 13
+new bw: 13 -> 12
+new bw: 12 -> 9
+new bw: 9 -> 8
+boolean-width(decomposition(data/graphLib/prob/vsd-hugin.dgf(v=38,e=62))): 2^bw=8, bw=3.00
+time: 10201
+Graph data/graphLib/prob/oesoca.dgf (v=39,e=67).
+new bw: 9223372036854775807 -> 15
+new bw: 15 -> 12
+new bw: 12 -> 10
+new bw: 10 -> 8
+new bw: 8 -> 7
+new bw: 7 -> 6
+boolean-width(decomposition(data/graphLib/prob/oesoca.dgf(v=39,e=67))): 2^bw=6, bw=2.58
+time: 10380
+Graph data/graphLib/prob/oow_solo.dgf (v=40,e=87).
+new bw: 9223372036854775807 -> 97
+new bw: 97 -> 80
+new bw: 80 -> 79
+new bw: 79 -> 68
+new bw: 68 -> 55
+new bw: 55 -> 46
+new bw: 46 -> 45
+new bw: 45 -> 36
+new bw: 36 -> 32
+new bw: 32 -> 28
+new bw: 28 -> 26
+new bw: 26 -> 25
+new bw: 25 -> 24
+boolean-width(decomposition(data/graphLib/prob/oow_solo.dgf(v=40,e=87))): 2^bw=24, bw=4.58
+time: 10200
+Graph data/graphLib/protein/1bx7_graph.dimacs (v=41,e=195).
+new bw: 9223372036854775807 -> 82
+new bw: 82 -> 80
+new bw: 80 -> 73
+new bw: 73 -> 64
+new bw: 64 -> 58
+new bw: 58 -> 56
+new bw: 56 -> 53
+new bw: 53 -> 52
+boolean-width(decomposition(data/graphLib/protein/1bx7_graph.dimacs(v=41,e=195))): 2^bw=52, bw=5.70
+time: 10218
+Graph data/graphLib/other/risk.dgf (v=42,e=83).
+new bw: 9223372036854775807 -> 160
+new bw: 160 -> 128
+new bw: 128 -> 124
+new bw: 124 -> 80
+new bw: 80 -> 48
+new bw: 48 -> 36
+new bw: 36 -> 35
+new bw: 35 -> 32
+new bw: 32 -> 24
+new bw: 24 -> 20
+boolean-width(decomposition(data/graphLib/other/risk.dgf(v=42,e=83))): 2^bw=20, bw=4.32
+time: 10232
+Graph data/graphLib/prob/oesoca42.dgf (v=42,e=72).
+new bw: 9223372036854775807 -> 15
+new bw: 15 -> 10
+new bw: 10 -> 9
+new bw: 9 -> 8
+boolean-width(decomposition(data/graphLib/prob/oesoca42.dgf(v=42,e=72))): 2^bw=8, bw=3.00
+time: 10238
+Graph data/graphLib/prob2/BN_94-pp.dgf (v=44,e=220).
+new bw: 9223372036854775807 -> 486
+new bw: 486 -> 468
+new bw: 468 -> 386
+new bw: 386 -> 367
+new bw: 367 -> 339
+new bw: 339 -> 313
+new bw: 313 -> 307
+boolean-width(decomposition(data/graphLib/prob2/BN_94-pp.dgf(v=44,e=220))): 2^bw=307, bw=8.26
+time: 10229
+Graph data/graphLib/prob2/BN_95-pp.dgf (v=44,e=220).
+new bw: 9223372036854775807 -> 516
+new bw: 516 -> 509
+new bw: 509 -> 381
+new bw: 381 -> 307
+boolean-width(decomposition(data/graphLib/prob2/BN_95-pp.dgf(v=44,e=220))): 2^bw=307, bw=8.26
+time: 10237
+Graph data/graphLib/coloring/myciel5.dgf (v=47,e=236).
+new bw: 9223372036854775807 -> 388
+new bw: 388 -> 386
+new bw: 386 -> 383
+new bw: 383 -> 357
+new bw: 357 -> 345
+new bw: 345 -> 339
+new bw: 339 -> 325
+boolean-width(decomposition(data/graphLib/coloring/myciel5.dgf(v=47,e=236))): 2^bw=325, bw=8.34
+time: 10697
+Graph data/graphLib/prob2/BN_98-pp.dgf (v=47,e=241).
+new bw: 9223372036854775807 -> 2144
+new bw: 2144 -> 1717
+new bw: 1717 -> 1462
+new bw: 1462 -> 1367
+boolean-width(decomposition(data/graphLib/prob2/BN_98-pp.dgf(v=47,e=241))): 2^bw=1367, bw=10.42
+time: 10251
+Graph data/graphLib/prob2/BN_99-pp.dgf (v=47,e=241).
+new bw: 9223372036854775807 -> 2332
+new bw: 2332 -> 1883
+new bw: 1883 -> 1755
+new bw: 1755 -> 1538
+new bw: 1538 -> 1257
+new bw: 1257 -> 1248
+new bw: 1248 -> 1043
+boolean-width(decomposition(data/graphLib/prob2/BN_99-pp.dgf(v=47,e=241))): 2^bw=1043, bw=10.03
+time: 10251
+Graph data/graphLib/protein/1ubq-pp.dgf (v=47,e=170).
+new bw: 9223372036854775807 -> 535
+new bw: 535 -> 380
+new bw: 380 -> 369
+new bw: 369 -> 352
+new bw: 352 -> 347
+new bw: 347 -> 340
+new bw: 340 -> 294
+new bw: 294 -> 259
+new bw: 259 -> 245
+new bw: 245 -> 231
+boolean-width(decomposition(data/graphLib/protein/1ubq-pp.dgf(v=47,e=170))): 2^bw=231, bw=7.85
+time: 10228
+Graph data/graphLib/prob2/BN_96-pp.dgf (v=48,e=234).
+new bw: 9223372036854775807 -> 2014
+new bw: 2014 -> 2001
+new bw: 2001 -> 1960
+new bw: 1960 -> 1867
+new bw: 1867 -> 1538
+new bw: 1538 -> 1526
+new bw: 1526 -> 1488
+new bw: 1488 -> 1411
+new bw: 1411 -> 1094
+new bw: 1094 -> 995
+boolean-width(decomposition(data/graphLib/prob2/BN_96-pp.dgf(v=48,e=234))): 2^bw=995, bw=9.96
+time: 10251
+Graph data/graphLib/prob2/BN_97-pp.dgf (v=48,e=234).
+new bw: 9223372036854775807 -> 1427
+new bw: 1427 -> 1391
+new bw: 1391 -> 1255
+new bw: 1255 -> 1249
+new bw: 1249 -> 1190
+new bw: 1190 -> 1154
+boolean-width(decomposition(data/graphLib/prob2/BN_97-pp.dgf(v=48,e=234))): 2^bw=1154, bw=10.17
+time: 10256
+Graph data/graphLib/prob/barley.dgf (v=48,e=126).
+new bw: 9223372036854775807 -> 85
+new bw: 85 -> 58
+new bw: 58 -> 42
+new bw: 42 -> 26
+new bw: 26 -> 25
+new bw: 25 -> 24
+boolean-width(decomposition(data/graphLib/prob/barley.dgf(v=48,e=126))): 2^bw=24, bw=4.58
+time: 10220
+Graph data/graphLib/prob/mainuk.dgf (v=48,e=198).
+new bw: 9223372036854775807 -> 99
+new bw: 99 -> 73
+new bw: 73 -> 70
+new bw: 70 -> 66
+new bw: 66 -> 61
+new bw: 61 -> 58
+new bw: 58 -> 54
+new bw: 54 -> 53
+new bw: 53 -> 42
+new bw: 42 -> 38
+new bw: 38 -> 37
+new bw: 37 -> 31
+new bw: 31 -> 27
+boolean-width(decomposition(data/graphLib/prob/mainuk.dgf(v=48,e=198))): 2^bw=27, bw=4.75
+time: 10251
+Graph data/graphLib/prob/pigs-pp.dgf (v=48,e=137).
+new bw: 9223372036854775807 -> 282
+new bw: 282 -> 240
+new bw: 240 -> 232
+new bw: 232 -> 224
+new bw: 224 -> 184
+new bw: 184 -> 106
+new bw: 106 -> 82
+new bw: 82 -> 81
+new bw: 81 -> 72
+boolean-width(decomposition(data/graphLib/prob/pigs-pp.dgf(v=48,e=137))): 2^bw=72, bw=6.17
+time: 10246
+Graph data/graphLib/protein/1brf_graph-pp.dimacs (v=48,e=408).
+new bw: 9223372036854775807 -> 305
+new bw: 305 -> 264
+new bw: 264 -> 252
+new bw: 252 -> 244
+new bw: 244 -> 243
+new bw: 243 -> 209
+new bw: 209 -> 181
+new bw: 181 -> 180
+boolean-width(decomposition(data/graphLib/protein/1brf_graph-pp.dimacs(v=48,e=408))): 2^bw=180, bw=7.49
+time: 10280
+Graph data/graphLib/protein/1rb9_graph.dimacs (v=48,e=412).
+new bw: 9223372036854775807 -> 326
+new bw: 326 -> 313
+new bw: 313 -> 298
+new bw: 298 -> 283
+new bw: 283 -> 281
+new bw: 281 -> 250
+new bw: 250 -> 222
+new bw: 222 -> 205
+new bw: 205 -> 192
+new bw: 192 -> 191
+new bw: 191 -> 189
+new bw: 189 -> 165
+boolean-width(decomposition(data/graphLib/protein/1rb9_graph.dimacs(v=48,e=412))): 2^bw=165, bw=7.37
+time: 10332
+warning: "data/graphLib/coloring/queen7_7.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen7_7.dgf (v=49,e=476).
+new bw: 9223372036854775807 -> 2136
+new bw: 2136 -> 2094
+new bw: 2094 -> 1910
+new bw: 1910 -> 1771
+new bw: 1771 -> 1687
+new bw: 1687 -> 1478
+new bw: 1478 -> 1476
+boolean-width(decomposition(data/graphLib/coloring/queen7_7.dgf(v=49,e=476))): 2^bw=1476, bw=10.53
+time: 10262
+Graph data/graphLib/protein/1brf_graph.dimacs (v=49,e=412).
+new bw: 9223372036854775807 -> 382
+new bw: 382 -> 364
+new bw: 364 -> 341
+new bw: 341 -> 323
+new bw: 323 -> 307
+new bw: 307 -> 305
+new bw: 305 -> 263
+new bw: 263 -> 254
+new bw: 254 -> 251
+boolean-width(decomposition(data/graphLib/protein/1brf_graph.dimacs(v=49,e=412))): 2^bw=251, bw=7.97
+time: 10249
+Graph data/graphLib/prob2/BN_104.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 54
+new bw: 54 -> 53
+new bw: 53 -> 51
+new bw: 51 -> 47
+new bw: 47 -> 45
+new bw: 45 -> 44
+boolean-width(decomposition(data/graphLib/prob2/BN_104.dgf(v=50,e=731))): 2^bw=44, bw=5.46
+time: 10273
+Graph data/graphLib/prob2/BN_105.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 59
+new bw: 59 -> 57
+new bw: 57 -> 53
+boolean-width(decomposition(data/graphLib/prob2/BN_105.dgf(v=50,e=731))): 2^bw=53, bw=5.73
+time: 10266
+Graph data/graphLib/prob2/BN_106.dgf (v=50,e=760).
+new bw: 9223372036854775807 -> 61
+new bw: 61 -> 57
+new bw: 57 -> 55
+new bw: 55 -> 54
+new bw: 54 -> 50
+new bw: 50 -> 49
+boolean-width(decomposition(data/graphLib/prob2/BN_106.dgf(v=50,e=760))): 2^bw=49, bw=5.61
+time: 10280
+Graph data/graphLib/prob2/BN_107.dgf (v=50,e=760).
+new bw: 9223372036854775807 -> 58
+new bw: 58 -> 53
+new bw: 53 -> 52
+new bw: 52 -> 50
+new bw: 50 -> 47
+new bw: 47 -> 46
+boolean-width(decomposition(data/graphLib/prob2/BN_107.dgf(v=50,e=760))): 2^bw=46, bw=5.52
+time: 10885
+Graph data/graphLib/prob2/BN_108.dgf (v=50,e=740).
+new bw: 9223372036854775807 -> 61
+new bw: 61 -> 58
+new bw: 58 -> 57
+new bw: 57 -> 55
+new bw: 55 -> 51
+new bw: 51 -> 50
+new bw: 50 -> 48
+boolean-width(decomposition(data/graphLib/prob2/BN_108.dgf(v=50,e=740))): 2^bw=48, bw=5.58
+time: 10917
+Graph data/graphLib/prob2/BN_109.dgf (v=50,e=740).
+new bw: 9223372036854775807 -> 73
+new bw: 73 -> 65
+new bw: 65 -> 62
+new bw: 62 -> 54
+new bw: 54 -> 49
+new bw: 49 -> 48
+new bw: 48 -> 44
+new bw: 44 -> 41
+boolean-width(decomposition(data/graphLib/prob2/BN_109.dgf(v=50,e=740))): 2^bw=41, bw=5.36
+time: 10275
+Graph data/graphLib/prob2/BN_110.dgf (v=50,e=741).
+new bw: 9223372036854775807 -> 77
+new bw: 77 -> 73
+new bw: 73 -> 72
+new bw: 72 -> 65
+new bw: 65 -> 59
+new bw: 59 -> 58
+new bw: 58 -> 52
+new bw: 52 -> 49
+boolean-width(decomposition(data/graphLib/prob2/BN_110.dgf(v=50,e=741))): 2^bw=49, bw=5.61
+time: 10271
+Graph data/graphLib/prob2/BN_111.dgf (v=50,e=741).
+new bw: 9223372036854775807 -> 98
+new bw: 98 -> 82
+new bw: 82 -> 77
+new bw: 77 -> 75
+new bw: 75 -> 64
+new bw: 64 -> 62
+new bw: 62 -> 59
+new bw: 59 -> 58
+new bw: 58 -> 57
+new bw: 57 -> 55
+new bw: 55 -> 54
+boolean-width(decomposition(data/graphLib/prob2/BN_111.dgf(v=50,e=741))): 2^bw=54, bw=5.75
+time: 10285
+Graph data/graphLib/prob2/BN_112.dgf (v=50,e=719).
+new bw: 9223372036854775807 -> 108
+new bw: 108 -> 97
+new bw: 97 -> 83
+new bw: 83 -> 74
+new bw: 74 -> 73
+new bw: 73 -> 71
+new bw: 71 -> 67
+new bw: 67 -> 63
+boolean-width(decomposition(data/graphLib/prob2/BN_112.dgf(v=50,e=719))): 2^bw=63, bw=5.98
+time: 10272
+Graph data/graphLib/prob2/BN_113.dgf (v=50,e=719).
+new bw: 9223372036854775807 -> 99
+new bw: 99 -> 96
+new bw: 96 -> 95
+new bw: 95 -> 89
+new bw: 89 -> 84
+new bw: 84 -> 82
+new bw: 82 -> 81
+new bw: 81 -> 73
+new bw: 73 -> 65
+boolean-width(decomposition(data/graphLib/prob2/BN_113.dgf(v=50,e=719))): 2^bw=65, bw=6.02
+time: 10283
+Graph data/graphLib/prob2/BN_114.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 106
+new bw: 106 -> 99
+new bw: 99 -> 94
+new bw: 94 -> 87
+new bw: 87 -> 86
+new bw: 86 -> 81
+new bw: 81 -> 80
+new bw: 80 -> 78
+new bw: 78 -> 69
+new bw: 69 -> 68
+new bw: 68 -> 63
+new bw: 63 -> 61
+boolean-width(decomposition(data/graphLib/prob2/BN_114.dgf(v=50,e=731))): 2^bw=61, bw=5.93
+time: 10272
+Graph data/graphLib/prob2/BN_115.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 75
+new bw: 75 -> 67
+new bw: 67 -> 65
+new bw: 65 -> 64
+new bw: 64 -> 61
+boolean-width(decomposition(data/graphLib/prob2/BN_115.dgf(v=50,e=731))): 2^bw=61, bw=5.93
+time: 10274
+Graph data/graphLib/prob2/BN_116.dgf (v=50,e=742).
+new bw: 9223372036854775807 -> 70
+new bw: 70 -> 66
+new bw: 66 -> 65
+new bw: 65 -> 54
+new bw: 54 -> 45
+new bw: 45 -> 41
+boolean-width(decomposition(data/graphLib/prob2/BN_116.dgf(v=50,e=742))): 2^bw=41, bw=5.36
+time: 10273
+Graph data/graphLib/prob2/BN_117.dgf (v=50,e=742).
+new bw: 9223372036854775807 -> 58
+new bw: 58 -> 54
+new bw: 54 -> 53
+new bw: 53 -> 50
+new bw: 50 -> 48
+new bw: 48 -> 47
+new bw: 47 -> 46
+boolean-width(decomposition(data/graphLib/prob2/BN_117.dgf(v=50,e=742))): 2^bw=46, bw=5.52
+time: 10274
+Graph data/graphLib/prob2/BN_118.dgf (v=50,e=735).
+new bw: 9223372036854775807 -> 105
+new bw: 105 -> 73
+new bw: 73 -> 70
+new bw: 70 -> 61
+new bw: 61 -> 59
+new bw: 59 -> 58
+new bw: 58 -> 55
+new bw: 55 -> 49
+new bw: 49 -> 48
+new bw: 48 -> 47
+boolean-width(decomposition(data/graphLib/prob2/BN_118.dgf(v=50,e=735))): 2^bw=47, bw=5.55
+time: 10484
+Graph data/graphLib/prob2/BN_119.dgf (v=50,e=735).
+new bw: 9223372036854775807 -> 68
+new bw: 68 -> 60
+new bw: 60 -> 56
+new bw: 56 -> 55
+new bw: 55 -> 53
+new bw: 53 -> 49
+boolean-width(decomposition(data/graphLib/prob2/BN_119.dgf(v=50,e=735))): 2^bw=49, bw=5.61
+time: 10272
+Graph data/graphLib/prob2/BN_120.dgf (v=50,e=737).
+new bw: 9223372036854775807 -> 54
+new bw: 54 -> 53
+new bw: 53 -> 51
+new bw: 51 -> 50
+new bw: 50 -> 48
+new bw: 48 -> 45
+new bw: 45 -> 43
+boolean-width(decomposition(data/graphLib/prob2/BN_120.dgf(v=50,e=737))): 2^bw=43, bw=5.43
+time: 10264
+Graph data/graphLib/prob2/BN_121.dgf (v=50,e=737).
+new bw: 9223372036854775807 -> 51
+new bw: 51 -> 50
+new bw: 50 -> 48
+new bw: 48 -> 47
+new bw: 47 -> 46
+boolean-width(decomposition(data/graphLib/prob2/BN_121.dgf(v=50,e=737))): 2^bw=46, bw=5.52
+time: 10278
+Graph data/graphLib/prob2/BN_122.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 100
+new bw: 100 -> 95
+new bw: 95 -> 94
+new bw: 94 -> 86
+new bw: 86 -> 79
+new bw: 79 -> 76
+new bw: 76 -> 71
+new bw: 71 -> 70
+new bw: 70 -> 64
+boolean-width(decomposition(data/graphLib/prob2/BN_122.dgf(v=50,e=731))): 2^bw=64, bw=6.00
+time: 10274
+Graph data/graphLib/prob2/BN_123.dgf (v=50,e=731).
+new bw: 9223372036854775807 -> 86
+new bw: 86 -> 79
+new bw: 79 -> 77
+new bw: 77 -> 76
+new bw: 76 -> 75
+new bw: 75 -> 73
+new bw: 73 -> 72
+new bw: 72 -> 70
+new bw: 70 -> 69
+boolean-width(decomposition(data/graphLib/prob2/BN_123.dgf(v=50,e=731))): 2^bw=69, bw=6.11
+time: 10272
+Graph data/graphLib/prob2/BN_124.dgf (v=50,e=740).
+new bw: 9223372036854775807 -> 113
+new bw: 113 -> 111
+new bw: 111 -> 101
+new bw: 101 -> 94
+new bw: 94 -> 93
+new bw: 93 -> 87
+new bw: 87 -> 86
+new bw: 86 -> 84
+new bw: 84 -> 80
+new bw: 80 -> 74
+new bw: 74 -> 69
+new bw: 69 -> 65
+boolean-width(decomposition(data/graphLib/prob2/BN_124.dgf(v=50,e=740))): 2^bw=65, bw=6.02
+time: 10755
+Graph data/graphLib/prob2/BN_125.dgf (v=50,e=740).
+new bw: 9223372036854775807 -> 102
+new bw: 102 -> 100
+new bw: 100 -> 95
+new bw: 95 -> 91
+new bw: 91 -> 85
+new bw: 85 -> 70
+new bw: 70 -> 68
+new bw: 68 -> 66
+new bw: 66 -> 65
+boolean-width(decomposition(data/graphLib/prob2/BN_125.dgf(v=50,e=740))): 2^bw=65, bw=6.02
+time: 10282
+Graph data/graphLib/prob/ship-ship.dgf (v=50,e=114).
+new bw: 9223372036854775807 -> 433
+new bw: 433 -> 378
+new bw: 378 -> 368
+new bw: 368 -> 328
+new bw: 328 -> 176
+new bw: 176 -> 112
+new bw: 112 -> 72
+new bw: 72 -> 61
+boolean-width(decomposition(data/graphLib/prob/ship-ship.dgf(v=50,e=114))): 2^bw=61, bw=5.93
+time: 10517
+Graph data/graphLib/delauney/eil51.tsp.dgf (v=51,e=140).
+new bw: 9223372036854775807 -> 737
+new bw: 737 -> 708
+new bw: 708 -> 520
+new bw: 520 -> 482
+new bw: 482 -> 420
+new bw: 420 -> 304
+new bw: 304 -> 272
+new bw: 272 -> 250
+new bw: 250 -> 241
+boolean-width(decomposition(data/graphLib/delauney/eil51.tsp.dgf(v=51,e=140))): 2^bw=241, bw=7.91
+time: 10238
+Graph data/graphLib/prob2/BN_100-pp.dgf (v=51,e=252).
+new bw: 9223372036854775807 -> 3992
+new bw: 3992 -> 2935
+new bw: 2935 -> 2891
+new bw: 2891 -> 2721
+new bw: 2721 -> 1907
+boolean-width(decomposition(data/graphLib/prob2/BN_100-pp.dgf(v=51,e=252))): 2^bw=20136, bw=14.30
+time: 12150
+Graph data/graphLib/prob2/BN_101-pp.dgf (v=51,e=252).
+new bw: 9223372036854775807 -> 5013
+new bw: 5013 -> 3954
+new bw: 3954 -> 3884
+boolean-width(decomposition(data/graphLib/prob2/BN_101-pp.dgf(v=51,e=252))): 2^bw=3884, bw=11.92
+time: 10375
+Graph data/graphLib/protein/1i07_graph-pp.dimacs (v=51,e=362).
+new bw: 9223372036854775807 -> 230
+new bw: 230 -> 198
+new bw: 198 -> 186
+new bw: 186 -> 172
+new bw: 172 -> 148
+new bw: 148 -> 142
+new bw: 142 -> 135
+new bw: 135 -> 124
+new bw: 124 -> 118
+new bw: 118 -> 95
+new bw: 95 -> 94
+boolean-width(decomposition(data/graphLib/protein/1i07_graph-pp.dimacs(v=51,e=362))): 2^bw=94, bw=6.55
+time: 10247
+Graph data/graphLib/protein/1kth_graph-pp.dimacs (v=51,e=421).
+new bw: 9223372036854775807 -> 325
+new bw: 325 -> 279
+new bw: 279 -> 263
+new bw: 263 -> 260
+new bw: 260 -> 246
+new bw: 246 -> 244
+new bw: 244 -> 208
+new bw: 208 -> 194
+new bw: 194 -> 184
+boolean-width(decomposition(data/graphLib/protein/1kth_graph-pp.dimacs(v=51,e=421))): 2^bw=184, bw=7.52
+time: 10251
+Graph data/graphLib/protein/1g6x_graph.dimacs (v=52,e=405).
+new bw: 9223372036854775807 -> 213
+boolean-width(decomposition(data/graphLib/protein/1g6x_graph.dimacs(v=52,e=405))): 2^bw=213, bw=7.73
+time: 10264
+Graph data/graphLib/protein/1igq_graph-pp.dimacs (v=52,e=493).
+new bw: 9223372036854775807 -> 535
+new bw: 535 -> 534
+new bw: 534 -> 427
+new bw: 427 -> 268
+new bw: 268 -> 230
+new bw: 230 -> 217
+new bw: 217 -> 211
+new bw: 211 -> 205
+boolean-width(decomposition(data/graphLib/protein/1igq_graph-pp.dimacs(v=52,e=493))): 2^bw=205, bw=7.68
+time: 10257
+Graph data/graphLib/protein/1kth_graph.dimacs (v=52,e=426).
+new bw: 9223372036854775807 -> 376
+new bw: 376 -> 372
+new bw: 372 -> 367
+new bw: 367 -> 303
+boolean-width(decomposition(data/graphLib/protein/1kth_graph.dimacs(v=52,e=426))): 2^bw=303, bw=8.24
+time: 10342
+Graph data/graphLib/prob2/BN_94.dgf (v=53,e=245).
+new bw: 9223372036854775807 -> 886
+new bw: 886 -> 798
+new bw: 798 -> 795
+new bw: 795 -> 789
+boolean-width(decomposition(data/graphLib/prob2/BN_94.dgf(v=53,e=245))): 2^bw=10470, bw=13.35
+time: 10283
+Graph data/graphLib/prob2/BN_95.dgf (v=53,e=245).
+new bw: 9223372036854775807 -> 2470
+new bw: 2470 -> 2062
+new bw: 2062 -> 1879
+new bw: 1879 -> 1446
+new bw: 1446 -> 1285
+new bw: 1285 -> 1241
+new bw: 1241 -> 1137
+boolean-width(decomposition(data/graphLib/prob2/BN_95.dgf(v=53,e=245))): 2^bw=10550, bw=13.36
+time: 10280
+Graph data/graphLib/coloring/zeroin.i.1-pp.dgf (v=54,e=1267).
+new bw: 9223372036854775807 -> 4
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.1-pp.dgf(v=54,e=1267))): 2^bw=4, bw=2.00
+time: 10687
+Graph data/graphLib/prob2/BN_78.dgf (v=54,e=226).
+new bw: 9223372036854775807 -> 305
+new bw: 305 -> 292
+new bw: 292 -> 267
+new bw: 267 -> 247
+new bw: 247 -> 243
+boolean-width(decomposition(data/graphLib/prob2/BN_78.dgf(v=54,e=226))): 2^bw=243, bw=7.92
+time: 10254
+Graph data/graphLib/prob2/BN_79.dgf (v=54,e=226).
+new bw: 9223372036854775807 -> 803
+new bw: 803 -> 552
+new bw: 552 -> 542
+new bw: 542 -> 371
+new bw: 371 -> 313
+new bw: 313 -> 310
+new bw: 310 -> 299
+new bw: 299 -> 257
+new bw: 257 -> 248
+boolean-width(decomposition(data/graphLib/prob2/BN_79.dgf(v=54,e=226))): 2^bw=248, bw=7.95
+time: 10319
+Graph data/graphLib/prob2/BN_96.dgf (v=54,e=249).
+new bw: 9223372036854775807 -> 1217
+new bw: 1217 -> 1108
+boolean-width(decomposition(data/graphLib/prob2/BN_96.dgf(v=54,e=249))): 2^bw=1108, bw=10.11
+time: 10281
+Graph data/graphLib/prob2/BN_97.dgf (v=54,e=249).
+new bw: 9223372036854775807 -> 2320
+new bw: 2320 -> 1664
+new bw: 1664 -> 1228
+new bw: 1228 -> 1177
+boolean-width(decomposition(data/graphLib/prob2/BN_97.dgf(v=54,e=249))): 2^bw=15864, bw=13.95
+time: 10291
+Graph data/graphLib/protein/1igq_graph.dimacs (v=54,e=503).
+new bw: 9223372036854775807 -> 461
+new bw: 461 -> 425
+new bw: 425 -> 362
+new bw: 362 -> 318
+new bw: 318 -> 306
+new bw: 306 -> 240
+new bw: 240 -> 205
+new bw: 205 -> 188
+new bw: 188 -> 184
+boolean-width(decomposition(data/graphLib/protein/1igq_graph.dimacs(v=54,e=503))): 2^bw=184, bw=7.52
+time: 10467
+Graph data/graphLib/protein/1e0b_graph-pp.dimacs (v=55,e=495).
+new bw: 9223372036854775807 -> 630
+new bw: 630 -> 584
+new bw: 584 -> 563
+new bw: 563 -> 555
+new bw: 555 -> 501
+new bw: 501 -> 469
+new bw: 469 -> 467
+new bw: 467 -> 386
+boolean-width(decomposition(data/graphLib/protein/1e0b_graph-pp.dimacs(v=55,e=495))): 2^bw=386, bw=8.59
+time: 10484
+Graph data/graphLib/other/kneser8-3.dgf (v=56,e=280).
+new bw: 9223372036854775807 -> 21939
+boolean-width(decomposition(data/graphLib/other/kneser8-3.dgf(v=56,e=280))): 2^bw=29237, bw=14.84
+time: 19701
+Graph data/graphLib/protein/1bbz_graph-pp.dimacs (v=56,e=538).
+new bw: 9223372036854775807 -> 666
+new bw: 666 -> 611
+new bw: 611 -> 592
+new bw: 592 -> 567
+boolean-width(decomposition(data/graphLib/protein/1bbz_graph-pp.dimacs(v=56,e=538))): 2^bw=567, bw=9.15
+time: 10463
+Graph data/graphLib/protein/1j75_graph.dimacs (v=56,e=558).
+new bw: 9223372036854775807 -> 1135
+new bw: 1135 -> 1107
+new bw: 1107 -> 1057
+new bw: 1057 -> 870
+new bw: 870 -> 842
+boolean-width(decomposition(data/graphLib/protein/1j75_graph.dimacs(v=56,e=558))): 2^bw=842, bw=9.72
+time: 10273
+Graph data/graphLib/protein/1k61_graph-pp.dimacs (v=56,e=564).
+new bw: 9223372036854775807 -> 885
+new bw: 885 -> 867
+new bw: 867 -> 832
+new bw: 832 -> 627
+new bw: 627 -> 598
+new bw: 598 -> 502
+boolean-width(decomposition(data/graphLib/protein/1k61_graph-pp.dimacs(v=56,e=564))): 2^bw=502, bw=8.97
+time: 10266
+Graph data/graphLib/protein/1sem_graph-pp.dimacs (v=56,e=565).
+new bw: 9223372036854775807 -> 800
+new bw: 800 -> 771
+new bw: 771 -> 714
+new bw: 714 -> 685
+new bw: 685 -> 617
+boolean-width(decomposition(data/graphLib/protein/1sem_graph-pp.dimacs(v=56,e=565))): 2^bw=617, bw=9.27
+time: 10651
+Graph data/graphLib/coloring/zeroin.i.2-pp.dgf (v=57,e=1097).
+new bw: 9223372036854775807 -> 25
+new bw: 25 -> 20
+new bw: 20 -> 19
+new bw: 19 -> 16
+new bw: 16 -> 15
+new bw: 15 -> 14
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.2-pp.dgf(v=57,e=1097))): 2^bw=14, bw=3.81
+time: 10892
+Graph data/graphLib/coloring/zeroin.i.3-pp.dgf (v=57,e=1097).
+new bw: 9223372036854775807 -> 30
+new bw: 30 -> 23
+new bw: 23 -> 20
+new bw: 20 -> 19
+boolean-width(decomposition(data/graphLib/coloring/zeroin.i.3-pp.dgf(v=57,e=1097))): 2^bw=19, bw=4.25
+time: 10839
+Graph data/graphLib/prob2/BN_10-pp.dgf (v=57,e=257).
+new bw: 9223372036854775807 -> 18073
+boolean-width(decomposition(data/graphLib/prob2/BN_10-pp.dgf(v=57,e=257))): 2^bw=56900, bw=15.80
+time: 13847
+Graph data/graphLib/prob2/BN_98.dgf (v=57,e=270).
+new bw: 9223372036854775807 -> 2575
+new bw: 2575 -> 2547
+boolean-width(decomposition(data/graphLib/prob2/BN_98.dgf(v=57,e=270))): 2^bw=2547, bw=11.31
+time: 10284
+Graph data/graphLib/prob2/BN_99.dgf (v=57,e=270).
+new bw: 9223372036854775807 -> 1990
+boolean-width(decomposition(data/graphLib/prob2/BN_99.dgf(v=57,e=270))): 2^bw=10608, bw=13.37
+time: 10472
+Graph data/graphLib/protein/1bbz_graph.dimacs (v=57,e=543).
+new bw: 9223372036854775807 -> 752
+new bw: 752 -> 709
+new bw: 709 -> 685
+new bw: 685 -> 648
+boolean-width(decomposition(data/graphLib/protein/1bbz_graph.dimacs(v=57,e=543))): 2^bw=648, bw=9.34
+time: 10275
+Graph data/graphLib/protein/1bf4_graph-pp.dimacs (v=57,e=627).
+new bw: 9223372036854775807 -> 572
+new bw: 572 -> 525
+new bw: 525 -> 456
+new bw: 456 -> 422
+new bw: 422 -> 409
+new bw: 409 -> 401
+boolean-width(decomposition(data/graphLib/protein/1bf4_graph-pp.dimacs(v=57,e=627))): 2^bw=401, bw=8.65
+time: 11140
+Graph data/graphLib/protein/1cka_graph.dimacs (v=57,e=605).
+new bw: 9223372036854775807 -> 844
+new bw: 844 -> 836
+new bw: 836 -> 830
+new bw: 830 -> 818
+new bw: 818 -> 749
+new bw: 749 -> 723
+boolean-width(decomposition(data/graphLib/protein/1cka_graph.dimacs(v=57,e=605))): 2^bw=723, bw=9.50
+time: 11085
+Graph data/graphLib/protein/1fjl_graph-pp.dimacs-004.dgf (v=57,e=563).
+new bw: 9223372036854775807 -> 826
+new bw: 826 -> 773
+new bw: 773 -> 668
+new bw: 668 -> 515
+new bw: 515 -> 496
+new bw: 496 -> 463
+boolean-width(decomposition(data/graphLib/protein/1fjl_graph-pp.dimacs-004.dgf(v=57,e=563))): 2^bw=463, bw=8.85
+time: 10266
+Graph data/graphLib/protein/1oai_graph-pp.dimacs (v=57,e=518).
+new bw: 9223372036854775807 -> 626
+new bw: 626 -> 577
+new bw: 577 -> 520
+new bw: 520 -> 510
+boolean-width(decomposition(data/graphLib/protein/1oai_graph-pp.dimacs(v=57,e=518))): 2^bw=510, bw=8.99
+time: 10616
+Graph data/graphLib/protein/1sem_graph.dimacs (v=57,e=570).
+new bw: 9223372036854775807 -> 1256
+new bw: 1256 -> 1173
+new bw: 1173 -> 1168
+new bw: 1168 -> 1147
+new bw: 1147 -> 958
+new bw: 958 -> 815
+new bw: 815 -> 804
+boolean-width(decomposition(data/graphLib/protein/1sem_graph.dimacs(v=57,e=570))): 2^bw=804, bw=9.65
+time: 11030
+Graph data/graphLib/other/macaque71-pp.dgf (v=58,e=405).
+new bw: 9223372036854775807 -> 508
+new bw: 508 -> 483
+new bw: 483 -> 470
+boolean-width(decomposition(data/graphLib/other/macaque71-pp.dgf(v=58,e=405))): 2^bw=470, bw=8.88
+time: 10321
+Graph data/graphLib/prob2/BN_100.dgf (v=58,e=273).
+new bw: 9223372036854775807 -> 1252
+boolean-width(decomposition(data/graphLib/prob2/BN_100.dgf(v=58,e=273))): 2^bw=12169, bw=13.57
+time: 10419
+Graph data/graphLib/prob2/BN_101.dgf (v=58,e=273).
+new bw: 9223372036854775807 -> 1536
+boolean-width(decomposition(data/graphLib/prob2/BN_101.dgf(v=58,e=273))): 2^bw=12294, bw=13.59
+time: 10518
+Graph data/graphLib/protein/1jo8_graph.dimacs (v=58,e=608).
+new bw: 9223372036854775807 -> 1481
+new bw: 1481 -> 1444
+new bw: 1444 -> 1146
+new bw: 1146 -> 1017
+new bw: 1017 -> 981
+boolean-width(decomposition(data/graphLib/protein/1jo8_graph.dimacs(v=58,e=608))): 2^bw=981, bw=9.94
+time: 10836
+Graph data/graphLib/protein/1oai_graph.dimacs (v=58,e=524).
+new bw: 9223372036854775807 -> 1120
+new bw: 1120 -> 1001
+new bw: 1001 -> 843
+new bw: 843 -> 734
+new bw: 734 -> 723
+new bw: 723 -> 644
+boolean-width(decomposition(data/graphLib/protein/1oai_graph.dimacs(v=58,e=524))): 2^bw=644, bw=9.33
+time: 10852
+Graph data/graphLib/protein/1g2b_graph-pp.dimacs (v=59,e=632).
+new bw: 9223372036854775807 -> 1105
+new bw: 1105 -> 834
+new bw: 834 -> 785
+new bw: 785 -> 759
+new bw: 759 -> 711
+boolean-width(decomposition(data/graphLib/protein/1g2b_graph-pp.dimacs(v=59,e=632))): 2^bw=711, bw=9.47
+time: 10595
+Graph data/graphLib/protein/1i07_graph.dimacs (v=59,e=397).
+new bw: 9223372036854775807 -> 148
+new bw: 148 -> 118
+new bw: 118 -> 115
+new bw: 115 -> 106
+new bw: 106 -> 105
+new bw: 105 -> 102
+boolean-width(decomposition(data/graphLib/protein/1i07_graph.dimacs(v=59,e=397))): 2^bw=102, bw=6.67
+time: 10262
+Graph data/graphLib/protein/1igd_graph-pp.dimacs (v=59,e=622).
+new bw: 9223372036854775807 -> 492
+new bw: 492 -> 473
+new bw: 473 -> 446
+new bw: 446 -> 412
+boolean-width(decomposition(data/graphLib/protein/1igd_graph-pp.dimacs(v=59,e=622))): 2^bw=412, bw=8.69
+time: 10940
+Graph data/graphLib/protein/1kq1_graph-pp.dimacs (v=59,e=603).
+new bw: 9223372036854775807 -> 925
+new bw: 925 -> 917
+new bw: 917 -> 856
+new bw: 856 -> 711
+boolean-width(decomposition(data/graphLib/protein/1kq1_graph-pp.dimacs(v=59,e=603))): 2^bw=711, bw=9.47
+time: 10425
+Graph data/graphLib/protein/1pwt_graph-pp.dimacs (v=59,e=648).
+new bw: 9223372036854775807 -> 1803
+new bw: 1803 -> 1332
+new bw: 1332 -> 1281
+new bw: 1281 -> 1060
+new bw: 1060 -> 981
+boolean-width(decomposition(data/graphLib/protein/1pwt_graph-pp.dimacs(v=59,e=648))): 2^bw=981, bw=9.94
+time: 10909
+Graph data/graphLib/other/knights8_8-pp.dgf (v=60,e=164).
+new bw: 9223372036854775807 -> 36864
+boolean-width(decomposition(data/graphLib/other/knights8_8-pp.dgf(v=60,e=164))): 2^bw=34846, bw=15.09
+time: 17471
+Graph data/graphLib/protein/1e0b_graph.dimacs (v=60,e=518).
+new bw: 9223372036854775807 -> 1339
+new bw: 1339 -> 1327
+new bw: 1327 -> 1243
+new bw: 1243 -> 1104
+new bw: 1104 -> 1036
+boolean-width(decomposition(data/graphLib/protein/1e0b_graph.dimacs(v=60,e=518))): 2^bw=1036, bw=10.02
+time: 11329
+Graph data/graphLib/protein/1k61_graph.dimacs (v=60,e=581).
+new bw: 9223372036854775807 -> 967
+new bw: 967 -> 898
+new bw: 898 -> 768
+boolean-width(decomposition(data/graphLib/protein/1k61_graph.dimacs(v=60,e=581))): 2^bw=768, bw=9.58
+time: 10665
+Graph data/graphLib/protein/1kq1_graph.dimacs (v=60,e=607).
+new bw: 9223372036854775807 -> 1062
+new bw: 1062 -> 1054
+new bw: 1054 -> 1040
+boolean-width(decomposition(data/graphLib/protein/1kq1_graph.dimacs(v=60,e=607))): 2^bw=1040, bw=10.02
+time: 11302
+Graph data/graphLib/protein/1ku3_graph-pp.dimacs (v=60,e=581).
+new bw: 9223372036854775807 -> 675
+new bw: 675 -> 620
+boolean-width(decomposition(data/graphLib/protein/1ku3_graph-pp.dimacs(v=60,e=581))): 2^bw=620, bw=9.28
+time: 10276
+Graph data/graphLib/protein/1gut_graph-pp.dimacs (v=61,e=597).
+new bw: 9223372036854775807 -> 1088
+new bw: 1088 -> 1007
+new bw: 1007 -> 823
+new bw: 823 -> 802
+new bw: 802 -> 715
+boolean-width(decomposition(data/graphLib/protein/1gut_graph-pp.dimacs(v=61,e=597))): 2^bw=715, bw=9.48
+time: 11137
+Graph data/graphLib/protein/1i2t_graph.dimacs (v=61,e=644).
+new bw: 9223372036854775807 -> 868
+new bw: 868 -> 795
+boolean-width(decomposition(data/graphLib/protein/1i2t_graph.dimacs(v=61,e=644))): 2^bw=795, bw=9.63
+time: 11823
+Graph data/graphLib/protein/1igd_graph.dimacs (v=61,e=630).
+new bw: 9223372036854775807 -> 794
+new bw: 794 -> 761
+new bw: 761 -> 691
+boolean-width(decomposition(data/graphLib/protein/1igd_graph.dimacs(v=61,e=630))): 2^bw=691, bw=9.43
+time: 10316
+Graph data/graphLib/protein/1ku3_graph.dimacs (v=61,e=585).
+new bw: 9223372036854775807 -> 531
+new bw: 531 -> 523
+new bw: 523 -> 460
+new bw: 460 -> 439
+new bw: 439 -> 421
+boolean-width(decomposition(data/graphLib/protein/1ku3_graph.dimacs(v=61,e=585))): 2^bw=421, bw=8.72
+time: 10551
+Graph data/graphLib/protein/1pwt_graph.dimacs (v=61,e=657).
+new bw: 9223372036854775807 -> 1275
+new bw: 1275 -> 1141
+new bw: 1141 -> 1102
+new bw: 1102 -> 1031
+boolean-width(decomposition(data/graphLib/protein/1pwt_graph.dimacs(v=61,e=657))): 2^bw=1031, bw=10.01
+time: 10414
+Graph data/graphLib/protein/1fr3_graph-pp.dimacs (v=62,e=599).
+new bw: 9223372036854775807 -> 322
+new bw: 322 -> 305
+new bw: 305 -> 275
+new bw: 275 -> 253
+new bw: 253 -> 250
+boolean-width(decomposition(data/graphLib/protein/1fr3_graph-pp.dimacs(v=62,e=599))): 2^bw=250, bw=7.97
+time: 11067
+Graph data/graphLib/protein/1g2b_graph.dimacs (v=62,e=649).
+new bw: 9223372036854775807 -> 1129
+new bw: 1129 -> 1012
+new bw: 1012 -> 991
+boolean-width(decomposition(data/graphLib/protein/1g2b_graph.dimacs(v=62,e=649))): 2^bw=991, bw=9.95
+time: 10680
+Graph data/graphLib/protein/1bf4_graph.dimacs (v=63,e=658).
+new bw: 9223372036854775807 -> 784
+new bw: 784 -> 712
+boolean-width(decomposition(data/graphLib/protein/1bf4_graph.dimacs(v=63,e=658))): 2^bw=712, bw=9.48
+time: 10294
+Graph data/graphLib/protein/1fjl_graph-pp.dimacs (v=63,e=595).
+new bw: 9223372036854775807 -> 748
+new bw: 748 -> 739
+new bw: 739 -> 723
+boolean-width(decomposition(data/graphLib/protein/1fjl_graph-pp.dimacs(v=63,e=595))): 2^bw=723, bw=9.50
+time: 11000
+Graph data/graphLib/protein/1r69_graph.dimacs (v=63,e=692).
+new bw: 9223372036854775807 -> 962
+new bw: 962 -> 954
+boolean-width(decomposition(data/graphLib/protein/1r69_graph.dimacs(v=63,e=692))): 2^bw=954, bw=9.90
+time: 10651
+warning: "data/graphLib/coloring/queen8_8.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen8_8.dgf (v=64,e=728).
+new bw: 9223372036854775807 -> 13107
+boolean-width(decomposition(data/graphLib/coloring/queen8_8.dgf(v=64,e=728))): 2^bw=26540, bw=14.70
+time: 27139
+Graph data/graphLib/other/knights8_8.dgf (v=64,e=168).
+new bw: 9223372036854775807 -> 23756
+boolean-width(decomposition(data/graphLib/other/knights8_8.dgf(v=64,e=168))): 2^bw=182160, bw=17.47
+time: 21254
+Graph data/graphLib/prob2/BN_102-pp.dgf (v=64,e=328).
+new bw: 9223372036854775807 -> 20684
+boolean-width(decomposition(data/graphLib/prob2/BN_102-pp.dgf(v=64,e=328))): 2^bw=104936, bw=16.68
+time: 23899
+Graph data/graphLib/prob2/BN_103-pp.dgf (v=64,e=328).
+new bw: 9223372036854775807 -> 63078
+boolean-width(decomposition(data/graphLib/prob2/BN_103-pp.dgf(v=64,e=328))): 2^bw=97151, bw=16.57
+time: 25584
+Graph data/graphLib/protein/1a8o_graph.dimacs (v=64,e=536).
+new bw: 9223372036854775807 -> 1644
+boolean-width(decomposition(data/graphLib/protein/1a8o_graph.dimacs(v=64,e=536))): 2^bw=11066, bw=13.43
+time: 11614
+Graph data/graphLib/protein/1gcq_graph-pp.dimacs (v=64,e=719).
+new bw: 9223372036854775807 -> 1326
+new bw: 1326 -> 1294
+boolean-width(decomposition(data/graphLib/protein/1gcq_graph-pp.dimacs(v=64,e=719))): 2^bw=1294, bw=10.34
+time: 11721
+Graph data/graphLib/protein/1fjl_graph.dimacs (v=65,e=600).
+new bw: 9223372036854775807 -> 613
+new bw: 613 -> 611
+boolean-width(decomposition(data/graphLib/protein/1fjl_graph.dimacs(v=65,e=600))): 2^bw=611, bw=9.26
+time: 10285
+Graph data/graphLib/prob/munin1-pp.dgf (v=66,e=188).
+new bw: 9223372036854775807 -> 627
+new bw: 627 -> 465
+new bw: 465 -> 366
+boolean-width(decomposition(data/graphLib/prob/munin1-pp.dgf(v=66,e=188))): 2^bw=366, bw=8.52
+time: 11547
+Graph data/graphLib/protein/1c9o_graph.dimacs (v=66,e=720).
+new bw: 9223372036854775807 -> 2540
+boolean-width(decomposition(data/graphLib/protein/1c9o_graph.dimacs(v=66,e=720))): 2^bw=2540, bw=11.31
+time: 10301
+Graph data/graphLib/protein/1en2_graph-pp.dimacs (v=66,e=451).
+new bw: 9223372036854775807 -> 1677
+new bw: 1677 -> 1397
+boolean-width(decomposition(data/graphLib/protein/1en2_graph-pp.dimacs(v=66,e=451))): 2^bw=1397, bw=10.45
+time: 11128
+Graph data/graphLib/protein/1ezg_graph.dimacs (v=66,e=541).
+new bw: 9223372036854775807 -> 1017
+boolean-width(decomposition(data/graphLib/protein/1ezg_graph.dimacs(v=66,e=541))): 2^bw=1017, bw=9.99
+time: 10279
+Graph data/graphLib/protein/1hg7_graph.dimacs (v=66,e=705).
+new bw: 9223372036854775807 -> 1318
+boolean-width(decomposition(data/graphLib/protein/1hg7_graph.dimacs(v=66,e=705))): 2^bw=1318, bw=10.36
+time: 10341
+Graph data/graphLib/prob2/BN_0-pp.dgf (v=67,e=243).
+new bw: 9223372036854775807 -> 85196
+boolean-width(decomposition(data/graphLib/prob2/BN_0-pp.dgf(v=67,e=243))): 2^bw=209638, bw=17.68
+time: 28793
+Graph data/graphLib/prob/oesoca+-hugin.dgf (v=67,e=208).
+new bw: 9223372036854775807 -> 298
+new bw: 298 -> 96
+boolean-width(decomposition(data/graphLib/prob/oesoca+-hugin.dgf(v=67,e=208))): 2^bw=96, bw=6.58
+time: 10366
+Graph data/graphLib/protein/1b67_graph-pp.dimacs (v=67,e=555).
+new bw: 9223372036854775807 -> 196
+new bw: 196 -> 191
+new bw: 191 -> 156
+boolean-width(decomposition(data/graphLib/protein/1b67_graph-pp.dimacs(v=67,e=555))): 2^bw=156, bw=7.29
+time: 10475
+Graph data/graphLib/protein/1c4q_graph.dimacs (v=67,e=756).
+new bw: 9223372036854775807 -> 1456
+boolean-width(decomposition(data/graphLib/protein/1c4q_graph.dimacs(v=67,e=756))): 2^bw=1456, bw=10.51
+time: 11446
+Graph data/graphLib/protein/1fr3_graph.dimacs (v=67,e=618).
+new bw: 9223372036854775807 -> 916
+new bw: 916 -> 843
+boolean-width(decomposition(data/graphLib/protein/1fr3_graph.dimacs(v=67,e=618))): 2^bw=843, bw=9.72
+time: 11064
+Graph data/graphLib/protein/1fse_graph.dimacs (v=67,e=730).
+new bw: 9223372036854775807 -> 682
+new bw: 682 -> 670
+boolean-width(decomposition(data/graphLib/protein/1fse_graph.dimacs(v=67,e=730))): 2^bw=670, bw=9.39
+time: 12133
+Graph data/graphLib/protein/1gut_graph.dimacs (v=67,e=621).
+new bw: 9223372036854775807 -> 1249
+new bw: 1249 -> 1138
+boolean-width(decomposition(data/graphLib/protein/1gut_graph.dimacs(v=67,e=621))): 2^bw=1138, bw=10.15
+time: 11246
+Graph data/graphLib/protein/1kw4_graph.dimacs (v=67,e=672).
+new bw: 9223372036854775807 -> 2508
+boolean-width(decomposition(data/graphLib/protein/1kw4_graph.dimacs(v=67,e=672))): 2^bw=10681, bw=13.38
+time: 13116
+Graph data/graphLib/protein/1ail_graph-pp.dimacs (v=68,e=628).
+new bw: 9223372036854775807 -> 956
+boolean-width(decomposition(data/graphLib/protein/1ail_graph-pp.dimacs(v=68,e=628))): 2^bw=956, bw=9.90
+time: 10343
+Graph data/graphLib/protein/1b67_graph.dimacs (v=68,e=559).
+new bw: 9223372036854775807 -> 313
+new bw: 313 -> 295
+boolean-width(decomposition(data/graphLib/protein/1b67_graph.dimacs(v=68,e=559))): 2^bw=295, bw=8.20
+time: 10608
+Graph data/graphLib/protein/1d3b_graph-pp.dimacs (v=68,e=677).
+new bw: 9223372036854775807 -> 2463
+boolean-width(decomposition(data/graphLib/protein/1d3b_graph-pp.dimacs(v=68,e=677))): 2^bw=2463, bw=11.27
+time: 13354
+Graph data/graphLib/protein/1gcq_graph.dimacs (v=68,e=742).
+new bw: 9223372036854775807 -> 2329
+boolean-width(decomposition(data/graphLib/protein/1gcq_graph.dimacs(v=68,e=742))): 2^bw=2329, bw=11.19
+time: 12806
+Graph data/graphLib/protein/1ail_graph.dimacs (v=69,e=631).
+new bw: 9223372036854775807 -> 1500
+boolean-width(decomposition(data/graphLib/protein/1ail_graph.dimacs(v=69,e=631))): 2^bw=1500, bw=10.55
+time: 11718
+Graph data/graphLib/protein/1c75_graph.dimacs (v=69,e=683).
+new bw: 9223372036854775807 -> 1827
+boolean-width(decomposition(data/graphLib/protein/1c75_graph.dimacs(v=69,e=683))): 2^bw=16029, bw=13.97
+time: 17745
+Graph data/graphLib/protein/1d3b_graph.dimacs (v=69,e=682).
+new bw: 9223372036854775807 -> 1593
+boolean-width(decomposition(data/graphLib/protein/1d3b_graph.dimacs(v=69,e=682))): 2^bw=1593, bw=10.64
+time: 11770
+Graph data/graphLib/protein/1en2_graph.dimacs (v=69,e=463).
+new bw: 9223372036854775807 -> 490
+boolean-width(decomposition(data/graphLib/protein/1en2_graph.dimacs(v=69,e=463))): 2^bw=490, bw=8.94
+time: 10447
+Graph data/graphLib/protein/1cc8_graph.dimacs (v=70,e=813).
+new bw: 9223372036854775807 -> 2045
+boolean-width(decomposition(data/graphLib/protein/1cc8_graph.dimacs(v=70,e=813))): 2^bw=2045, bw=11.00
+time: 14219
+Graph data/graphLib/protein/1dj7_graph-pp.dimacs (v=70,e=726).
+new bw: 9223372036854775807 -> 1877
+boolean-width(decomposition(data/graphLib/protein/1dj7_graph-pp.dimacs(v=70,e=726))): 2^bw=1877, bw=10.87
+time: 13395
+Graph data/graphLib/protein/1i27_graph-pp.dimacs (v=70,e=735).
+new bw: 9223372036854775807 -> 2577
+boolean-width(decomposition(data/graphLib/protein/1i27_graph-pp.dimacs(v=70,e=735))): 2^bw=2577, bw=11.33
+time: 12691
+Graph data/graphLib/protein/1l9l_graph.dimacs (v=70,e=697).
+new bw: 9223372036854775807 -> 2191
+boolean-width(decomposition(data/graphLib/protein/1l9l_graph.dimacs(v=70,e=697))): 2^bw=2191, bw=11.10
+time: 14240
+Graph data/graphLib/other/macaque71.dgf (v=71,e=444).
+new bw: 9223372036854775807 -> 1024
+boolean-width(decomposition(data/graphLib/other/macaque71.dgf(v=71,e=444))): 2^bw=17462, bw=14.09
+time: 18439
+Graph data/graphLib/protein/1dp7_graph-pp.dimacs (v=71,e=748).
+new bw: 9223372036854775807 -> 1015
+boolean-width(decomposition(data/graphLib/protein/1dp7_graph-pp.dimacs(v=71,e=748))): 2^bw=1015, bw=9.99
+time: 14176
+Graph data/graphLib/protein/1ljo_graph-pp.dimacs (v=71,e=777).
+new bw: 9223372036854775807 -> 1530
+boolean-width(decomposition(data/graphLib/protein/1ljo_graph-pp.dimacs(v=71,e=777))): 2^bw=1530, bw=10.58
+time: 13712
+Graph data/graphLib/prob2/BN_8-pp.dgf (v=72,e=364).
+new bw: 9223372036854775807 -> 154009
+boolean-width(decomposition(data/graphLib/prob2/BN_8-pp.dgf(v=72,e=364))): 2^bw=283181, bw=18.11
+time: 38187
+Graph data/graphLib/protein/1mgq_graph-pp.dimacs (v=72,e=787).
+new bw: 9223372036854775807 -> 1260
+boolean-width(decomposition(data/graphLib/protein/1mgq_graph-pp.dimacs(v=72,e=787))): 2^bw=1260, bw=10.30
+time: 15064
+Graph data/graphLib/coloring/mulsol.i.1-pp.dgf (v=73,e=2188).
+new bw: 9223372036854775807 -> 21
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.1-pp.dgf(v=73,e=2188))): 2^bw=21, bw=4.39
+time: 12171
+Graph data/graphLib/delauney/pr76.tsp-pp.dgf (v=73,e=210).
+new bw: 9223372036854775807 -> 17817
+boolean-width(decomposition(data/graphLib/delauney/pr76.tsp-pp.dgf(v=73,e=210))): 2^bw=128136, bw=16.97
+time: 17677
+Graph data/graphLib/prob2/BN_12-pp.dgf (v=73,e=427).
+new bw: 9223372036854775807 -> 106905
+boolean-width(decomposition(data/graphLib/prob2/BN_12-pp.dgf(v=73,e=427))): 2^bw=236405, bw=17.85
+time: 41149
+Graph data/graphLib/protein/1dj7_graph.dimacs (v=73,e=743).
+new bw: 9223372036854775807 -> 3022
+boolean-width(decomposition(data/graphLib/protein/1dj7_graph.dimacs(v=73,e=743))): 2^bw=3022, bw=11.56
+time: 17397
+Graph data/graphLib/protein/1i27_graph.dimacs (v=73,e=747).
+new bw: 9223372036854775807 -> 1382
+boolean-width(decomposition(data/graphLib/protein/1i27_graph.dimacs(v=73,e=747))): 2^bw=1382, bw=10.43
+time: 15411
+warning: "data/graphLib/coloring/huck.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/huck.dgf (v=74,e=301).
+new bw: 9223372036854775807 -> 36
+boolean-width(decomposition(data/graphLib/coloring/huck.dgf(v=74,e=301))): 2^bw=36, bw=5.17
+time: 12695
+Graph data/graphLib/other/1ubq.dgf (v=74,e=211).
+new bw: 9223372036854775807 -> 2448
+boolean-width(decomposition(data/graphLib/other/1ubq.dgf(v=74,e=211))): 2^bw=11808, bw=13.53
+time: 21217
+Graph data/graphLib/prob2/BN_1-pp.dgf (v=74,e=340).
+new bw: 9223372036854775807 -> 180224
+boolean-width(decomposition(data/graphLib/prob2/BN_1-pp.dgf(v=74,e=340))): 2^bw=384824, bw=18.55
+time: 38034
+Graph data/graphLib/protein/1ldd_graph.dimacs (v=74,e=835).
+new bw: 9223372036854775807 -> 2217
+boolean-width(decomposition(data/graphLib/protein/1ldd_graph.dimacs(v=74,e=835))): 2^bw=2217, bw=11.11
+time: 18004
+Graph data/graphLib/protein/1ljo_graph.dimacs (v=74,e=789).
+new bw: 9223372036854775807 -> 1899
+boolean-width(decomposition(data/graphLib/protein/1ljo_graph.dimacs(v=74,e=789))): 2^bw=1899, bw=10.89
+time: 16851
+Graph data/graphLib/protein/1mgq_graph.dimacs (v=74,e=798).
+new bw: 9223372036854775807 -> 1795
+boolean-width(decomposition(data/graphLib/protein/1mgq_graph.dimacs(v=74,e=798))): 2^bw=14367, bw=13.81
+time: 20859
+Graph data/graphLib/protein/1ubq.dgf (v=74,e=211).
+new bw: 9223372036854775807 -> 4864
+boolean-width(decomposition(data/graphLib/protein/1ubq.dgf(v=74,e=211))): 2^bw=28308, bw=14.79
+time: 20339
+Graph data/graphLib/delauney/eil76.tsp-pp.dgf (v=75,e=213).
+new bw: 9223372036854775807 -> 3584
+boolean-width(decomposition(data/graphLib/delauney/eil76.tsp-pp.dgf(v=75,e=213))): 2^bw=199955, bw=17.61
+time: 22423
+Graph data/graphLib/protein/1ig5_graph.dimacs (v=75,e=816).
+new bw: 9223372036854775807 -> 5747
+boolean-width(decomposition(data/graphLib/protein/1ig5_graph.dimacs(v=75,e=816))): 2^bw=5747, bw=12.49
+time: 19481
+Graph data/graphLib/delauney/eil76.tsp.dgf (v=76,e=215).
+new bw: 9223372036854775807 -> 1152
+boolean-width(decomposition(data/graphLib/delauney/eil76.tsp.dgf(v=76,e=215))): 2^bw=58280, bw=15.83
+time: 26055
+Graph data/graphLib/delauney/pr76.tsp.dgf (v=76,e=218).
+new bw: 9223372036854775807 -> 3481
+boolean-width(decomposition(data/graphLib/delauney/pr76.tsp.dgf(v=76,e=218))): 2^bw=23064, bw=14.49
+time: 21683
+Graph data/graphLib/prob2/BN_102.dgf (v=76,e=360).
+new bw: 9223372036854775807 -> 612761
+boolean-width(decomposition(data/graphLib/prob2/BN_102.dgf(v=76,e=360))): 2^bw=106749, bw=16.70
+time: 27855
+Graph data/graphLib/prob2/BN_103.dgf (v=76,e=360).
+new bw: 9223372036854775807 -> 393216
+boolean-width(decomposition(data/graphLib/prob2/BN_103.dgf(v=76,e=360))): 2^bw=245130, bw=17.90
+time: 29553
+Graph data/graphLib/protein/1dp7_graph.dimacs (v=76,e=769).
+new bw: 9223372036854775807 -> 1387
+boolean-width(decomposition(data/graphLib/protein/1dp7_graph.dimacs(v=76,e=769))): 2^bw=1387, bw=10.44
+time: 18191
+Graph data/graphLib/protein/1iqz_graph.dimacs (v=77,e=839).
+new bw: 9223372036854775807 -> 3235
+boolean-width(decomposition(data/graphLib/protein/1iqz_graph.dimacs(v=77,e=839))): 2^bw=3235, bw=11.66
+time: 23892
+Graph data/graphLib/protein/1qtn_graph-pp.dimacs (v=77,e=741).
+new bw: 9223372036854775807 -> 1563
+boolean-width(decomposition(data/graphLib/protein/1qtn_graph-pp.dimacs(v=77,e=741))): 2^bw=1563, bw=10.61
+time: 17557
+Graph data/graphLib/prob2/BN_9-pp.dgf (v=78,e=320).
+new bw: 9223372036854775807 -> 1350041
+time: 53819
+Graph data/graphLib/freq/graph03-pp.dgf (v=79,e=293).
+new bw: 9223372036854775807 -> 105676
+boolean-width(decomposition(data/graphLib/freq/graph03-pp.dgf(v=79,e=293))): 2^bw=337920, bw=18.37
+time: 45770
+Graph data/graphLib/prob2/BN_7-pp.dgf (v=79,e=478).
+new bw: 9223372036854775807 -> 619315
+boolean-width(decomposition(data/graphLib/prob2/BN_7-pp.dgf(v=79,e=478))): 2^bw=951353, bw=19.86
+time: 54496
+warning: "data/graphLib/coloring/jean.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/jean.dgf (v=80,e=254).
+new bw: 9223372036854775807 -> 147
+boolean-width(decomposition(data/graphLib/coloring/jean.dgf(v=80,e=254))): 2^bw=147, bw=7.20
+time: 19414
+Graph data/graphLib/delauney/pr299.tsp-pp.dgf-001.dgf (v=80,e=229).
+new bw: 9223372036854775807 -> 1433
+boolean-width(decomposition(data/graphLib/delauney/pr299.tsp-pp.dgf-001.dgf(v=80,e=229))): 2^bw=42662, bw=15.38
+time: 29055
+Graph data/graphLib/freq/celar05-pp.dgf (v=80,e=426).
+new bw: 9223372036854775807 -> 2355
+boolean-width(decomposition(data/graphLib/freq/celar05-pp.dgf(v=80,e=426))): 2^bw=14628, bw=13.84
+time: 24110
+warning: "data/graphLib/coloring/queen9_9.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen9_9.dgf (v=81,e=1056).
+new bw: 9223372036854775807 -> 89292
+boolean-width(decomposition(data/graphLib/coloring/queen9_9.dgf(v=81,e=1056))): 2^bw=251145, bw=17.94
+time: 56620
+Graph data/graphLib/freq/celar03-pp.dgf (v=81,e=413).
+new bw: 9223372036854775807 -> 684
+boolean-width(decomposition(data/graphLib/freq/celar03-pp.dgf(v=81,e=413))): 2^bw=684, bw=9.42
+time: 19467
+Graph data/graphLib/other/sodoku.dgf (v=81,e=810).
+new bw: 9223372036854775807 -> 1674
+boolean-width(decomposition(data/graphLib/other/sodoku.dgf(v=81,e=810))): 2^bw=17174, bw=14.07
+time: 39873
+Graph data/graphLib/prob2/BN_2-pp.dgf (v=81,e=451).
+new bw: 9223372036854775807 -> 629145
+time: 56621
+Graph data/graphLib/prob2/BN_3-pp.dgf (v=81,e=401).
+new bw: 9223372036854775807 -> 884736
+time: 54410
+	at graph.PosSubSet.union(PosSubSet.java:321)
+Graph data/graphLib/prob2/BN_4-pp.dgf (v=81,e=530).
+new bw: 9223372036854775807 -> 134348
+time: 59036
+Graph data/graphLib/freq/graph03-wpp.dgf (v=84,e=299).
+new bw: 9223372036854775807 -> 707788
+time: 58850
+	at graph.PosSubSet.union(PosSubSet.java:327)
+Graph data/graphLib/delauney/pr124.tsp-pp.dgf (v=85,e=240).
+new bw: 9223372036854775807 -> 2121
+boolean-width(decomposition(data/graphLib/delauney/pr124.tsp-pp.dgf(v=85,e=240))): 2^bw=32390, bw=14.98
+time: 36727
+Graph data/graphLib/prob2/BN_10.dgf (v=85,e=304).
+new bw: 9223372036854775807 -> 337510
+boolean-width(decomposition(data/graphLib/prob2/BN_10.dgf(v=85,e=304))): 2^bw=742650, bw=19.50
+time: 59928
+Graph data/graphLib/protein/1aba_graph.dimacs (v=85,e=886).
+new bw: 9223372036854775807 -> 4300
+boolean-width(decomposition(data/graphLib/protein/1aba_graph.dimacs(v=85,e=886))): 2^bw=28468, bw=14.80
+time: 47256
+Graph data/graphLib/protein/1fk5_graph.dimacs (v=85,e=823).
+new bw: 9223372036854775807 -> 16384
+boolean-width(decomposition(data/graphLib/protein/1fk5_graph.dimacs(v=85,e=823))): 2^bw=129048, bw=16.98
+time: 33783
+Graph data/graphLib/protein/1ctj_graph-pp.dimacs (v=86,e=929).
+new bw: 9223372036854775807 -> 3750
+boolean-width(decomposition(data/graphLib/protein/1ctj_graph-pp.dimacs(v=86,e=929))): 2^bw=35960, bw=15.13
+time: 42193
+warning: "data/graphLib/coloring/david.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/david.dgf (v=87,e=406).
+new bw: 9223372036854775807 -> 919
+boolean-width(decomposition(data/graphLib/coloring/david.dgf(v=87,e=406))): 2^bw=919, bw=9.84
+time: 28748
+Graph data/graphLib/prob2/BN_14-pp.dgf (v=87,e=389).
+new bw: 9223372036854775807 -> 4718592
+time: 69864
+Graph data/graphLib/protein/1ctj_graph.dimacs (v=87,e=935).
+new bw: 9223372036854775807 -> 6604
+boolean-width(decomposition(data/graphLib/protein/1ctj_graph.dimacs(v=87,e=935))): 2^bw=79294, bw=16.27
+time: 39275
+Graph data/graphLib/protein/1ptf_graph.dimacs (v=87,e=1137).
+new bw: 9223372036854775807 -> 10214
+boolean-width(decomposition(data/graphLib/protein/1ptf_graph.dimacs(v=87,e=1137))): 2^bw=17247, bw=14.07
+time: 58036
+Graph data/graphLib/protein/1qtn_graph.dimacs (v=87,e=788).
+new bw: 9223372036854775807 -> 3353
+boolean-width(decomposition(data/graphLib/protein/1qtn_graph.dimacs(v=87,e=788))): 2^bw=10932, bw=13.42
+time: 37888
+Graph data/graphLib/freq/celar03-wpp.dgf (v=89,e=438).
+new bw: 9223372036854775807 -> 613
+boolean-width(decomposition(data/graphLib/freq/celar03-wpp.dgf(v=89,e=438))): 2^bw=613, bw=9.26
+time: 30157
+Graph data/graphLib/freq/celar05-wpp.dgf (v=89,e=448).
+new bw: 9223372036854775807 -> 2462
+boolean-width(decomposition(data/graphLib/freq/celar05-wpp.dgf(v=89,e=448))): 2^bw=12862, bw=13.65
+time: 36420
+Graph data/graphLib/freq/graph01-pp.dgf (v=89,e=332).
+new bw: 9223372036854775807 -> 1310720
+time: 73721
+Graph data/graphLib/protein/1awd_graph.dimacs (v=89,e=1080).
+new bw: 9223372036854775807 -> 14182
+boolean-width(decomposition(data/graphLib/protein/1awd_graph.dimacs(v=89,e=1080))): 2^bw=30102, bw=14.88
+time: 43464
+Graph data/graphLib/prob2/BN_12.dgf (v=90,e=481).
+new bw: 9223372036854775807 -> 177356
+time: 82523
+Graph data/graphLib/prob/munin1-wpp.dgf (v=90,e=220).
+new bw: 9223372036854775807 -> 736
+boolean-width(decomposition(data/graphLib/prob/munin1-wpp.dgf(v=90,e=220))): 2^bw=21126, bw=14.37
+time: 46764
+Graph data/graphLib/freq/graph05-pp.dgf (v=91,e=394).
+new bw: 9223372036854775807 -> 87654
+time: 57467
+Graph data/graphLib/protein/1jhg_graph-pp.dimacs (v=91,e=784).
+new bw: 9223372036854775807 -> 12288
+boolean-width(decomposition(data/graphLib/protein/1jhg_graph-pp.dimacs(v=91,e=784))): 2^bw=14483, bw=13.82
+time: 33707
+Graph data/graphLib/delauney/a280.tsp-pp.dgf-002.dgf (v=92,e=257).
+new bw: 9223372036854775807 -> 24985
+boolean-width(decomposition(data/graphLib/delauney/a280.tsp-pp.dgf-002.dgf(v=92,e=257))): 2^bw=139346, bw=17.09
+time: 41535
+Graph data/graphLib/delauney/kroE100.tsp-pp.dgf (v=92,e=263).
+new bw: 9223372036854775807 -> 6963
+boolean-width(decomposition(data/graphLib/delauney/kroE100.tsp-pp.dgf(v=92,e=263))): 2^bw=48348, bw=15.56
+time: 45950
+Graph data/graphLib/freq/celar07-pp.dgf (v=92,e=521).
+new bw: 9223372036854775807 -> 287
+boolean-width(decomposition(data/graphLib/freq/celar07-pp.dgf(v=92,e=521))): 2^bw=287, bw=8.16
+time: 33485
+Graph data/graphLib/prob2/BN_11-pp.dgf (v=92,e=583).
+new bw: 9223372036854775807 -> 3578265
+time: 83255
+Graph data/graphLib/delauney/pr107.tsp-pp.dgf (v=93,e=255).
+new bw: 9223372036854775807 -> 2355
+boolean-width(decomposition(data/graphLib/delauney/pr107.tsp-pp.dgf(v=93,e=255))): 2^bw=12917, bw=13.66
+time: 44476
+Graph data/graphLib/freq/graph01-wpp.dgf (v=93,e=336).
+new bw: 9223372036854775807 -> 2890137
+time: 81932
+Graph data/graphLib/protein/1g2r_graph-pp.dimacs (v=93,e=1104).
+new bw: 9223372036854775807 -> 138444
+boolean-width(decomposition(data/graphLib/protein/1g2r_graph-pp.dimacs(v=93,e=1104))): 2^bw=90938, bw=16.47
+time: 65695
+Graph data/graphLib/freq/graph05-wpp.dgf (v=94,e=397).
+new bw: 9223372036854775807 -> 239206
+time: 83120
+Graph data/graphLib/protein/1czp_graph.dimacs (v=94,e=1195).
+new bw: 9223372036854775807 -> 2560
+boolean-width(decomposition(data/graphLib/protein/1czp_graph.dimacs(v=94,e=1195))): 2^bw=76389, bw=16.22
+time: 63807
+Graph data/graphLib/protein/1g2r_graph.dimacs (v=94,e=1109).
+new bw: 9223372036854775807 -> 331366
+boolean-width(decomposition(data/graphLib/protein/1g2r_graph.dimacs(v=94,e=1109))): 2^bw=77209, bw=16.24
+time: 70059
+Graph data/graphLib/protein/1psr_graph-pp.dimacs (v=94,e=949).
+new bw: 9223372036854775807 -> 27033
+boolean-width(decomposition(data/graphLib/protein/1psr_graph-pp.dimacs(v=94,e=949))): 2^bw=59320, bw=15.86
+time: 51547
+Graph data/graphLib/coloring/homer-pp.dgf (v=95,e=759).
+new bw: 9223372036854775807 -> 168755
+boolean-width(decomposition(data/graphLib/coloring/homer-pp.dgf(v=95,e=759))): 2^bw=445441, bw=18.76
+time: 77491
+Graph data/graphLib/coloring/myciel6.dgf (v=95,e=755).
+new bw: 9223372036854775807 -> 5632
+boolean-width(decomposition(data/graphLib/coloring/myciel6.dgf(v=95,e=755))): 2^bw=307790, bw=18.23
+time: 113979
+Graph data/graphLib/delauney/kroA100.tsp-pp.dgf (v=95,e=272).
+new bw: 9223372036854775807 -> 7065
+boolean-width(decomposition(data/graphLib/delauney/kroA100.tsp-pp.dgf(v=95,e=272))): 2^bw=749332, bw=19.52
+time: 54886
+Graph data/graphLib/prob2/BN_13-pp.dgf (v=95,e=478).
+new bw: 9223372036854775807 -> 2634547
+time: 90980
+	at graph.PosSubSet.union(PosSubSet.java:321)
+Graph data/graphLib/prob2/BN_7.dgf (v=95,e=535).
+new bw: 9223372036854775807 -> 6030131
+time: 87976
+Graph data/graphLib/prob/munin_kgo_complete-wpp.dgf (v=95,e=252).
+new bw: 9223372036854775807 -> 1536
+boolean-width(decomposition(data/graphLib/prob/munin_kgo_complete-wpp.dgf(v=95,e=252))): 2^bw=62636, bw=15.93
+time: 51461
+Graph data/graphLib/protein/1c5e_graph.dimacs (v=95,e=1148).
+new bw: 9223372036854775807 -> 141312
+boolean-width(decomposition(data/graphLib/protein/1c5e_graph.dimacs(v=95,e=1148))): 2^bw=57218, bw=15.80
+time: 54426
+warning: "data/graphLib/coloring/queen8_12.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen8_12.dgf (v=96,e=1368).
+new bw: 9223372036854775807 -> 1611571
+time: 104151
+Graph data/graphLib/delauney/lin105.tsp-pp.dgf (v=96,e=272).
+new bw: 9223372036854775807 -> 7577
+boolean-width(decomposition(data/graphLib/delauney/lin105.tsp-pp.dgf(v=96,e=272))): 2^bw=46642, bw=15.51
+time: 47892
+Graph data/graphLib/delauney/rat99.tsp-pp.dgf (v=96,e=272).
+new bw: 9223372036854775807 -> 4096
+boolean-width(decomposition(data/graphLib/delauney/rat99.tsp-pp.dgf(v=96,e=272))): 2^bw=129736, bw=16.99
+time: 53019
+Graph data/graphLib/freq/celar11-pp.dgf (v=96,e=470).
+new bw: 9223372036854775807 -> 2080
+boolean-width(decomposition(data/graphLib/freq/celar11-pp.dgf(v=96,e=470))): 2^bw=10104, bw=13.30
+time: 46521
+Graph data/graphLib/prob/munin3-pp.dgf (v=96,e=313).
+new bw: 9223372036854775807 -> 2048
+boolean-width(decomposition(data/graphLib/prob/munin3-pp.dgf(v=96,e=313))): 2^bw=67264, bw=16.04
+time: 56273
+Graph data/graphLib/delauney/kroC100.tsp-pp.dgf (v=97,e=277).
+new bw: 9223372036854775807 -> 2048
+boolean-width(decomposition(data/graphLib/delauney/kroC100.tsp-pp.dgf(v=97,e=277))): 2^bw=56288, bw=15.78
+time: 58266
+Graph data/graphLib/delauney/rd100.tsp-pp.dgf (v=97,e=277).
+new bw: 9223372036854775807 -> 2764
+boolean-width(decomposition(data/graphLib/delauney/rd100.tsp-pp.dgf(v=97,e=277))): 2^bw=86273, bw=16.40
+time: 59896
+Graph data/graphLib/freq/celar07-wpp.dgf (v=97,e=534).
+new bw: 9223372036854775807 -> 527
+boolean-width(decomposition(data/graphLib/freq/celar07-wpp.dgf(v=97,e=534))): 2^bw=527, bw=9.04
+time: 43560
+Graph data/graphLib/prob2/BN_15-pp.dgf (v=97,e=568).
+new bw: 9223372036854775807 -> 34288435
+time: 94173
+Graph data/graphLib/protein/1b0n_graph.dimacs-006.dgf (v=98,e=981).
+new bw: 9223372036854775807 -> 4841
+boolean-width(decomposition(data/graphLib/protein/1b0n_graph.dimacs-006.dgf(v=98,e=981))): 2^bw=17972, bw=14.13
+time: 61871
+Graph data/graphLib/protein/1plc_graph.dimacs (v=98,e=1167).
+new bw: 9223372036854775807 -> 4710
+boolean-width(decomposition(data/graphLib/protein/1plc_graph.dimacs(v=98,e=1167))): 2^bw=14532, bw=13.83
+time: 68451
+Graph data/graphLib/protein/1psr_graph.dimacs (v=98,e=967).
+new bw: 9223372036854775807 -> 42188
+boolean-width(decomposition(data/graphLib/protein/1psr_graph.dimacs(v=98,e=967))): 2^bw=41423, bw=15.34
+time: 54676
+Graph data/graphLib/delauney/rat99.tsp.dgf (v=99,e=279).
+new bw: 9223372036854775807 -> 17203
+time: 62901
+Graph data/graphLib/freq/celar11-wpp.dgf (v=99,e=475).
+new bw: 9223372036854775807 -> 1796
+boolean-width(decomposition(data/graphLib/freq/celar11-wpp.dgf(v=99,e=475))): 2^bw=13364, bw=13.71
+time: 53815
+Graph data/graphLib/protein/1d4t_graph-pp.dimacs (v=99,e=1131).
+new bw: 9223372036854775807 -> 27443
+boolean-width(decomposition(data/graphLib/protein/1d4t_graph-pp.dimacs(v=99,e=1131))): 2^bw=87103, bw=16.41
+time: 64395
+Graph data/graphLib/protein/1lkk_graph-pp.dimacs (v=99,e=1142).
+new bw: 9223372036854775807 -> 3883
+boolean-width(decomposition(data/graphLib/protein/1lkk_graph-pp.dimacs(v=99,e=1142))): 2^bw=27849, bw=14.77
+time: 68159
+warning: "data/graphLib/coloring/queen10_10.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen10_10.dgf (v=100,e=1470).
+new bw: 9223372036854775807 -> 66252
+time: 126860
+Graph data/graphLib/delauney/eil101.tsp-pp.dgf (v=100,e=288).
+new bw: 9223372036854775807 -> 2176
+boolean-width(decomposition(data/graphLib/delauney/eil101.tsp-pp.dgf(v=100,e=288))): 2^bw=140828, bw=17.10
+time: 70343
+Graph data/graphLib/delauney/kroA100.tsp.dgf (v=100,e=285).
+new bw: 9223372036854775807 -> 5952
+boolean-width(decomposition(data/graphLib/delauney/kroA100.tsp.dgf(v=100,e=285))): 2^bw=587084, bw=19.16
+time: 68854
+Graph data/graphLib/delauney/kroB100.tsp.dgf (v=100,e=284).
+new bw: 9223372036854775807 -> 3481
+boolean-width(decomposition(data/graphLib/delauney/kroB100.tsp.dgf(v=100,e=284))): 2^bw=28498, bw=14.80
+time: 65192
+Graph data/graphLib/delauney/kroC100.tsp.dgf (v=100,e=286).
+new bw: 9223372036854775807 -> 2969
+boolean-width(decomposition(data/graphLib/delauney/kroC100.tsp.dgf(v=100,e=286))): 2^bw=36600, bw=15.16
+time: 64003
+Graph data/graphLib/delauney/kroE100.tsp.dgf (v=100,e=283).
+new bw: 9223372036854775807 -> 3264
+boolean-width(decomposition(data/graphLib/delauney/kroE100.tsp.dgf(v=100,e=283))): 2^bw=360960, bw=18.46
+time: 65657
+Graph data/graphLib/delauney/rd100.tsp.dgf (v=100,e=286).
+new bw: 9223372036854775807 -> 7270
+boolean-width(decomposition(data/graphLib/delauney/rd100.tsp.dgf(v=100,e=286))): 2^bw=123824, bw=16.92
+time: 66080
+Graph data/graphLib/freq/celar02.dgf (v=100,e=311).
+new bw: 9223372036854775807 -> 2112
+boolean-width(decomposition(data/graphLib/freq/celar02.dgf(v=100,e=311))): 2^bw=21568, bw=14.40
+time: 56688
+Graph data/graphLib/freq/celar06.dgf (v=100,e=350).
+new bw: 9223372036854775807 -> 3072
+boolean-width(decomposition(data/graphLib/freq/celar06.dgf(v=100,e=350))): 2^bw=11392, bw=13.48
+time: 54729
+Graph data/graphLib/freq/graph01.dgf (v=100,e=358).
+new bw: 9223372036854775807 -> 8152678
+time: 100407
+Graph data/graphLib/freq/graph03.dgf (v=100,e=340).
+new bw: 9223372036854775807 -> 2205286
+time: 94505
+Graph data/graphLib/freq/graph05.dgf (v=100,e=416).
+new bw: 9223372036854775807 -> 1625292
+time: 103877
+Graph data/graphLib/prob2/BN_0.dgf (v=100,e=300).
+new bw: 9223372036854775807 -> 12740198
+time: 104882
+Graph data/graphLib/prob2/BN_1.dgf (v=100,e=394).
+new bw: 9223372036854775807 -> 1920204
+time: 95383
+Graph data/graphLib/prob2/BN_2.dgf (v=100,e=494).
+new bw: 9223372036854775807 -> 10852761
+time: 100382
+Graph data/graphLib/prob2/BN_3.dgf (v=100,e=451).
+new bw: 9223372036854775807 -> 31037849
+time: 109232
+Graph data/graphLib/prob2/BN_4.dgf (v=100,e=574).
+new bw: 9223372036854775807 -> 4397465
+time: 98150
+Graph data/graphLib/prob2/BN_8.dgf (v=100,e=420).
+new bw: 9223372036854775807 -> 15466496
+time: 107536
+Graph data/graphLib/protein/1i0v_graph.dimacs (v=100,e=1207).
+new bw: 9223372036854775807 -> 44236
+boolean-width(decomposition(data/graphLib/protein/1i0v_graph.dimacs(v=100,e=1207))): 2^bw=220383, bw=17.75
+time: 69955
+Graph data/graphLib/delauney/eil101.tsp.dgf (v=101,e=290).
+new bw: 9223372036854775807 -> 1680
+boolean-width(decomposition(data/graphLib/delauney/eil101.tsp.dgf(v=101,e=290))): 2^bw=248880, bw=17.93
+time: 74284
+Graph data/graphLib/protein/1erv_graph.dimacs (v=101,e=1267).
+new bw: 9223372036854775807 -> 94208
+boolean-width(decomposition(data/graphLib/protein/1erv_graph.dimacs(v=101,e=1267))): 2^bw=115407, bw=16.82
+time: 62982
+Graph data/graphLib/protein/1jhg_graph.dimacs (v=101,e=841).
+new bw: 9223372036854775807 -> 3968
+boolean-width(decomposition(data/graphLib/protein/1jhg_graph.dimacs(v=101,e=841))): 2^bw=31831, bw=14.96
+time: 59945
+Graph data/graphLib/prob2/BN_5-pp.dgf (v=102,e=613).
+new bw: 9223372036854775807 -> 97412710
+time: 114680
+Graph data/graphLib/protein/1d4t_graph.dimacs (v=102,e=1145).
+new bw: 9223372036854775807 -> 106291
+boolean-width(decomposition(data/graphLib/protein/1d4t_graph.dimacs(v=102,e=1145))): 2^bw=388151, bw=18.57
+time: 77531
+Graph data/graphLib/protein/1iib_graph-pp.dimacs (v=102,e=1379).
+new bw: 9223372036854775807 -> 45772
+boolean-width(decomposition(data/graphLib/protein/1iib_graph-pp.dimacs(v=102,e=1379))): 2^bw=116500, bw=16.83
+time: 82880
+Graph data/graphLib/protein/1aac_graph-pp.dimacs (v=103,e=1314).
+new bw: 9223372036854775807 -> 540672
+boolean-width(decomposition(data/graphLib/protein/1aac_graph-pp.dimacs(v=103,e=1314))): 2^bw=128327, bw=16.97
+time: 89415
+Graph data/graphLib/protein/1b0n_graph.dimacs (v=103,e=1011).
+new bw: 9223372036854775807 -> 21299
+boolean-width(decomposition(data/graphLib/protein/1b0n_graph.dimacs(v=103,e=1011))): 2^bw=34961, bw=15.09
+time: 69987
+Graph data/graphLib/protein/1iib_graph.dimacs (v=103,e=1384).
+new bw: 9223372036854775807 -> 193740
+boolean-width(decomposition(data/graphLib/protein/1iib_graph.dimacs(v=103,e=1384))): 2^bw=160478, bw=17.29
+time: 100101
+Graph data/graphLib/protein/1lkk_graph.dimacs (v=103,e=1162).
+new bw: 9223372036854775807 -> 125030
+boolean-width(decomposition(data/graphLib/protein/1lkk_graph.dimacs(v=103,e=1162))): 2^bw=29385, bw=14.84
+time: 127799
+Graph data/graphLib/protein/1aac_graph.dimacs (v=104,e=1316).
+new bw: 9223372036854775807 -> 64000
+boolean-width(decomposition(data/graphLib/protein/1aac_graph.dimacs(v=104,e=1316))): 2^bw=251370, bw=17.94
+time: 74877
+Graph data/graphLib/delauney/lin105.tsp.dgf (v=105,e=292).
+new bw: 9223372036854775807 -> 6553
+boolean-width(decomposition(data/graphLib/delauney/lin105.tsp.dgf(v=105,e=292))): 2^bw=69400, bw=16.08
+time: 74089
+Graph data/graphLib/prob2/BN_11.dgf (v=105,e=631).
+new bw: 9223372036854775807 -> 45121536
+time: 123793
+Graph data/graphLib/prob2/BN_9.dgf (v=105,e=382).
+new bw: 9223372036854775807 -> 7261388
+time: 126994
+Graph data/graphLib/protein/1bkf_graph-pp.dimacs (v=105,e=1259).
+new bw: 9223372036854775807 -> 23142
+boolean-width(decomposition(data/graphLib/protein/1bkf_graph-pp.dimacs(v=105,e=1259))): 2^bw=170601, bw=17.38
+time: 81201
+Graph data/graphLib/protein/1bkf_graph.dimacs (v=106,e=1264).
+new bw: 9223372036854775807 -> 40140
+boolean-width(decomposition(data/graphLib/protein/1bkf_graph.dimacs(v=106,e=1264))): 2^bw=250212, bw=17.93
+time: 83994
+Graph data/graphLib/delauney/pr107.tsp.dgf (v=107,e=283).
+new bw: 9223372036854775807 -> 4403
+boolean-width(decomposition(data/graphLib/delauney/pr107.tsp.dgf(v=107,e=283))): 2^bw=96744, bw=16.56
+time: 84124
+Graph data/graphLib/prob2/BN_6-pp.dgf (v=107,e=873).
+new bw: 9223372036854775807 -> 31824281
+time: 132783
+Graph data/graphLib/protein/1bkr_graph.dimacs (v=107,e=1340).
+new bw: 9223372036854775807 -> 121241
+boolean-width(decomposition(data/graphLib/protein/1bkr_graph.dimacs(v=107,e=1340))): 2^bw=547045, bw=19.06
+time: 88700
+Graph data/graphLib/protein/1rro_graph.dimacs (v=107,e=1300).
+new bw: 9223372036854775807 -> 249036
+boolean-width(decomposition(data/graphLib/protein/1rro_graph.dimacs(v=107,e=1300))): 2^bw=405505, bw=18.63
+time: 135072
+Graph data/graphLib/prob/pathfinder.dgf (v=109,e=211).
+new bw: 9223372036854775807 -> 691
+boolean-width(decomposition(data/graphLib/prob/pathfinder.dgf(v=109,e=211))): 2^bw=17042, bw=14.06
+time: 95078
+Graph data/graphLib/protein/1f9m_graph.dimacs (v=109,e=1349).
+new bw: 9223372036854775807 -> 527564
+time: 121231
+Graph data/graphLib/freq/celar04-pp.dgf (v=114,e=524).
+new bw: 9223372036854775807 -> 3788
+boolean-width(decomposition(data/graphLib/freq/celar04-pp.dgf(v=114,e=524))): 2^bw=203504, bw=17.63
+time: 110731
+Graph data/graphLib/prob2/BN_129-pp.dgf (v=114,e=685).
+new bw: 9223372036854775807 -> 115762790
+time: 162543
+Graph data/graphLib/protein/1fs1_graph.dimacs (v=114,e=1351).
+new bw: 9223372036854775807 -> 51404
+boolean-width(decomposition(data/graphLib/protein/1fs1_graph.dimacs(v=114,e=1351))): 2^bw=130008, bw=16.99
+time: 116129
+Graph data/graphLib/prob2/BN_14.dgf (v=115,e=456).
+new bw: 9223372036854775807 -> 2244791500
+time: 172399
+Graph data/graphLib/prob2/BN_46-pp.dgf (v=115,e=380).
+new bw: 9223372036854775807 -> 9856614
+time: 164401
+Graph data/graphLib/coloring/mulsol.i.2-pp.dgf (v=116,e=2468).
+new bw: 9223372036854775807 -> 48
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.2-pp.dgf(v=116,e=2468))): 2^bw=48, bw=5.58
+time: 88188
+Graph data/graphLib/prob2/BN_126-pp.dgf (v=116,e=692).
+new bw: 9223372036854775807 -> 639211929
+time: 159824
+Graph data/graphLib/prob2/BN_128-pp.dgf (v=116,e=691).
+new bw: 9223372036854775807 -> 219781529
+time: 182349
+Graph data/graphLib/prob2/BN_130-pp.dgf (v=116,e=691).
+new bw: 9223372036854775807 -> 1614807040
+time: 182628
+Graph data/graphLib/prob2/BN_133-pp.dgf (v=116,e=695).
+new bw: 9223372036854775807 -> 1306420838
+time: 177514
+Graph data/graphLib/prob/diabetes-pp.dgf (v=116,e=276).
+new bw: 9223372036854775807 -> 11059
+boolean-width(decomposition(data/graphLib/prob/diabetes-pp.dgf(v=116,e=276))): 2^bw=876768, bw=19.74
+time: 123463
+Graph data/graphLib/coloring/mulsol.i.3-pp.dgf (v=117,e=2499).
+new bw: 9223372036854775807 -> 424
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.3-pp.dgf(v=117,e=2499))): 2^bw=12488, bw=13.61
+time: 99051
+Graph data/graphLib/prob2/BN_131-pp.dgf (v=117,e=684).
+new bw: 9223372036854775807 -> 205520896
+time: 172246
+Graph data/graphLib/prob2/BN_132-pp.dgf (v=117,e=693).
+new bw: 9223372036854775807 -> 1451281612
+time: 186585
+Graph data/graphLib/protein/1gef_graph-pp.dimacs (v=117,e=1486).
+new bw: 9223372036854775807 -> 285491
+boolean-width(decomposition(data/graphLib/protein/1gef_graph-pp.dimacs(v=117,e=1486))): 2^bw=404372, bw=18.63
+time: 117602
+Graph data/graphLib/coloring/games120-pp.dgf (v=118,e=636).
+new bw: 9223372036854775807 -> 313733939
+time: 190604
+Graph data/graphLib/coloring/mulsol.i.4-pp.dgf (v=118,e=2529).
+new bw: 9223372036854775807 -> 600
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.4-pp.dgf(v=118,e=2529))): 2^bw=14096, bw=13.78
+time: 101152
+Graph data/graphLib/delauney/pr144.tsp-pp.dgf (v=118,e=334).
+new bw: 9223372036854775807 -> 88064
+time: 126458
+Graph data/graphLib/coloring/mulsol.i.5-pp.dgf (v=119,e=2556).
+new bw: 9223372036854775807 -> 66
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.5-pp.dgf(v=119,e=2556))): 2^bw=66, bw=6.04
+time: 98463
+Graph data/graphLib/freq/celar04-wpp.dgf (v=119,e=503).
+new bw: 9223372036854775807 -> 3276
+boolean-width(decomposition(data/graphLib/freq/celar04-wpp.dgf(v=119,e=503))): 2^bw=166656, bw=17.35
+time: 135400
+Graph data/graphLib/protein/1gef_graph.dimacs (v=119,e=1492).
+new bw: 9223372036854775807 -> 145817
+time: 145356
+warning: "data/graphLib/coloring/games120.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/games120.dgf (v=120,e=638).
+new bw: 9223372036854775807 -> 9751756
+time: 187145
+Graph data/graphLib/prob2/BN_127-pp.dgf (v=120,e=705).
+new bw: 9223372036854775807 -> 307141017
+time: 218219
+Graph data/graphLib/prob2/BN_15.dgf (v=120,e=637).
+new bw: 9223372036854775807 -> 67475865
+time: 199202
+Graph data/graphLib/protein/1a62_graph-pp.dimacs (v=120,e=1507).
+new bw: 9223372036854775807 -> 46080
+boolean-width(decomposition(data/graphLib/protein/1a62_graph-pp.dimacs(v=120,e=1507))): 2^bw=569775, bw=19.12
+time: 149238
+warning: "data/graphLib/coloring/queen11_11.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen11_11.dgf (v=121,e=1980).
+new bw: 9223372036854775807 -> 17983078
+time: 207770
+Graph data/graphLib/prob2/BN_134-pp.dgf (v=122,e=722).
+new bw: 9223372036854775807 -> 1151126732
+time: 220550
+Graph data/graphLib/protein/1a62_graph.dimacs (v=122,e=1516).
+new bw: 9223372036854775807 -> 149913
+time: 176682
+Graph data/graphLib/delauney/bier127.tsp-pp.dgf (v=124,e=359).
+new bw: 9223372036854775807 -> 1585971
+time: 196420
+Graph data/graphLib/delauney/pr124.tsp.dgf (v=124,e=318).
+new bw: 9223372036854775807 -> 9011
+time: 165954
+Graph data/graphLib/protein/1dd3_graph-pp.dimacs (v=124,e=1334).
+new bw: 9223372036854775807 -> 164659
+time: 192076
+Graph data/graphLib/delauney/ch130.tsp-pp.dgf (v=125,e=363).
+new bw: 9223372036854775807 -> 10854
+time: 178617
+Graph data/graphLib/prob2/BN_13.dgf (v=125,e=550).
+new bw: 9223372036854775807 -> 349175808
+time: 211860
+Graph data/graphLib/prob2/BN_5.dgf (v=125,e=678).
+new bw: 9223372036854775807 -> 1080452710
+time: 232883
+Graph data/graphLib/prob2/BN_6.dgf (v=125,e=948).
+new bw: 9223372036854775807 -> 60293120
+time: 230913
+Graph data/graphLib/delauney/pr136.tsp-pp.dgf (v=126,e=357).
+new bw: 9223372036854775807 -> 47513
+boolean-width(decomposition(data/graphLib/delauney/pr136.tsp-pp.dgf(v=126,e=357))): 2^bw=387904, bw=18.57
+time: 161909
+Graph data/graphLib/prob/pigs-wpp.dgf (v=126,e=265).
+new bw: 9223372036854775807 -> 15584460
+time: 216589
+Graph data/graphLib/delauney/bier127.tsp.dgf (v=127,e=368).
+new bw: 9223372036854775807 -> 190054
+time: 237145
+Graph data/graphLib/protein/1bkb_graph-pp.dimacs (v=127,e=1473).
+new bw: 9223372036854775807 -> 12032
+boolean-width(decomposition(data/graphLib/protein/1bkb_graph-pp.dimacs(v=127,e=1473))): 2^bw=103827, bw=16.66
+time: 173274
+warning: "data/graphLib/coloring/miles1000.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/miles1000.dgf (v=128,e=3216).
+new bw: 9223372036854775807 -> 571
+boolean-width(decomposition(data/graphLib/coloring/miles1000.dgf(v=128,e=3216))): 2^bw=571, bw=9.16
+time: 154570
+warning: "data/graphLib/coloring/miles1500.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/miles1500.dgf (v=128,e=5198).
+new bw: 9223372036854775807 -> 57
+boolean-width(decomposition(data/graphLib/coloring/miles1500.dgf(v=128,e=5198))): 2^bw=57, bw=5.83
+time: 144303
+warning: "data/graphLib/coloring/miles250.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/miles250.dgf (v=128,e=387).
+new bw: 9223372036854775807 -> 2368
+boolean-width(decomposition(data/graphLib/coloring/miles250.dgf(v=128,e=387))): 2^bw=58800, bw=15.84
+time: 184839
+warning: "data/graphLib/coloring/miles500.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/miles500.dgf (v=128,e=1170).
+new bw: 9223372036854775807 -> 49152
+boolean-width(decomposition(data/graphLib/coloring/miles500.dgf(v=128,e=1170))): 2^bw=546356, bw=19.06
+time: 167169
+warning: "data/graphLib/coloring/miles750.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/miles750.dgf (v=128,e=2113).
+new bw: 9223372036854775807 -> 3675
+boolean-width(decomposition(data/graphLib/coloring/miles750.dgf(v=128,e=2113))): 2^bw=3675, bw=11.84
+time: 171897
+Graph data/graphLib/protein/1dd3_graph.dimacs (v=128,e=1356).
+new bw: 9223372036854775807 -> 23347
+boolean-width(decomposition(data/graphLib/protein/1dd3_graph.dimacs(v=128,e=1356))): 2^bw=207102, bw=17.66
+time: 164240
+Graph data/graphLib/delauney/ch130.tsp.dgf (v=130,e=377).
+new bw: 9223372036854775807 -> 91750
+time: 200643
+Graph data/graphLib/delauney/u159.tsp-pp.dgf (v=130,e=371).
+new bw: 9223372036854775807 -> 114688
+time: 187836
+Graph data/graphLib/protein/1bkb_graph.dimacs (v=131,e=1485).
+new bw: 9223372036854775807 -> 2026700
+time: 184766
+Graph data/graphLib/freq/celar09-pp.dgf (v=133,e=646).
+new bw: 9223372036854775807 -> 7577
+time: 224178
+Graph data/graphLib/freq/celar10-pp.dgf (v=133,e=646).
+new bw: 9223372036854775807 -> 35225
+time: 215114
+Graph data/graphLib/protein/1on2_graph-pp.dimacs (v=133,e=1517).
+new bw: 9223372036854775807 -> 22528
+boolean-width(decomposition(data/graphLib/protein/1on2_graph-pp.dimacs(v=133,e=1517))): 2^bw=211328, bw=17.69
+time: 194525
+Graph data/graphLib/protein/1on2_graph.dimacs (v=135,e=1527).
+new bw: 9223372036854775807 -> 1961984
+time: 257478
+Graph data/graphLib/delauney/pr136.tsp.dgf (v=136,e=377).
+new bw: 9223372036854775807 -> 20889
+boolean-width(decomposition(data/graphLib/delauney/pr136.tsp.dgf(v=136,e=377))): 2^bw=519508, bw=18.99
+time: 226650
+warning: "data/graphLib/coloring/anna.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/anna.dgf (v=138,e=493).
+new bw: 9223372036854775807 -> 2508
+boolean-width(decomposition(data/graphLib/coloring/anna.dgf(v=138,e=493))): 2^bw=610184, bw=19.22
+time: 259793
+Graph data/graphLib/delauney/pr152.tsp-pp.dgf (v=141,e=400).
+new bw: 9223372036854775807 -> 28262
+time: 271538
+Graph data/graphLib/delauney/kroA150.tsp-pp.dgf (v=142,e=410).
+new bw: 9223372036854775807 -> 93952409
+time: 358337
+Graph data/graphLib/freq/celar09-wpp.dgf (v=142,e=609).
+new bw: 9223372036854775807 -> 55705
+time: 281327
+Graph data/graphLib/freq/celar10-wpp.dgf (v=142,e=609).
+new bw: 9223372036854775807 -> 21094
+boolean-width(decomposition(data/graphLib/freq/celar10-wpp.dgf(v=142,e=609))): 2^bw=998784, bw=19.93
+time: 289485
+warning: "data/graphLib/coloring/queen12_12.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen12_12.dgf (v=144,e=2596).
+new bw: 9223372036854775807 -> 50855936
+time: 385735
+Graph data/graphLib/delauney/ch150.tsp-pp.dgf (v=144,e=416).
+new bw: 9223372036854775807 -> 235929
+time: 299997
+Graph data/graphLib/delauney/pr144.tsp.dgf (v=144,e=393).
+new bw: 9223372036854775807 -> 139264
+time: 309022
+Graph data/graphLib/delauney/kroB150.tsp-pp.dgf (v=147,e=427).
+new bw: 9223372036854775807 -> 37539020
+time: 390036
+Graph data/graphLib/delauney/ch150.tsp.dgf (v=150,e=432).
+new bw: 9223372036854775807 -> 484966
+time: 362525
+Graph data/graphLib/delauney/kroA150.tsp.dgf (v=150,e=432).
+new bw: 9223372036854775807 -> 20237516
+time: 446608
+Graph data/graphLib/delauney/kroB150.tsp.dgf (v=150,e=436).
+new bw: 9223372036854775807 -> 122473676
+time: 425203
+Graph data/graphLib/delauney/pr152.tsp.dgf (v=152,e=428).
+new bw: 9223372036854775807 -> 160563
+time: 387462
+Graph data/graphLib/delauney/pr226.tsp-pp.dgf (v=152,e=436).
+new bw: 9223372036854775807 -> 18227
+time: 389379
+Graph data/graphLib/freq/celar01-pp.dgf (v=157,e=804).
+new bw: 9223372036854775807 -> 275251
+time: 451457
+Graph data/graphLib/freq/celar01-wpp.dgf (v=158,e=805).
+new bw: 9223372036854775807 -> 122060
+time: 465989
+Graph data/graphLib/delauney/u159.tsp.dgf (v=159,e=431).
+new bw: 9223372036854775807 -> 445644
+time: 494663
+Graph data/graphLib/prob/munin2-pp.dgf (v=167,e=455).
+new bw: 9223372036854775807 -> 24985
+time: 639884
+warning: "data/graphLib/coloring/queen13_13.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen13_13.dgf (v=169,e=3328).
+new bw: 9223372036854775807 -> 1302750822
+time: 539514
+Graph data/graphLib/delauney/a280.tsp-pp.dgf-003.dgf (v=169,e=490).
+new bw: 9223372036854775807 -> 1612185
+time: 663965
+Graph data/graphLib/protein/1fpo_graph-pp.dimacs (v=169,e=1837).
+new bw: 9223372036854775807 -> 19188940
+time: 603582
+Graph data/graphLib/protein/1fpo_graph.dimacs (v=170,e=1840).
+new bw: 9223372036854775807 -> 67108864
+time: 600916
+Graph data/graphLib/protein/1or7_graph-pp.dimacs (v=173,e=1843).
+new bw: 9223372036854775807 -> 493568
+time: 765286
+Graph data/graphLib/prob/munin3-wpp.dgf (v=174,e=449).
+new bw: 9223372036854775807 -> 43315
+time: 760294
+Graph data/graphLib/freq/graph07-wpp.dgf (v=177,e=787).
+new bw: 9223372036854775807 -> 1341855157452
+time: 970609
+Graph data/graphLib/freq/graph02-pp.dgf (v=179,e=659).
+new bw: 9223372036854775807 -> 11957188952064
+time: 1038382
+Graph data/graphLib/freq/graph04-pp.dgf (v=179,e=678).
+new bw: 9223372036854775807 -> 22251366567116
+time: 1040365
+Graph data/graphLib/freq/graph06-pp.dgf (v=180,e=790).
+new bw: 9223372036854775807 -> 341449900032
+time: 1052130
+Graph data/graphLib/freq/graph07-pp.dgf (v=180,e=790).
+new bw: 9223372036854775807 -> 507772508569
+time: 1051036
+Graph data/graphLib/protein/1or7_graph.dimacs (v=180,e=1875).
+new bw: 9223372036854775807 -> 29150412
+time: 845841
+Graph data/graphLib/protein/1g3p_graph-pp.dimacs (v=181,e=2203).
+new bw: 9223372036854775807 -> 54945382
+time: 811132
+Graph data/graphLib/coloring/mulsol.i.3.dgf (v=184,e=3916).
+new bw: 9223372036854775807 -> 672
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.3.dgf(v=184,e=3916))): 2^bw=41808, bw=15.35
+time: 958614
+Graph data/graphLib/coloring/mulsol.i.4.dgf (v=185,e=3946).
+new bw: 9223372036854775807 -> 550
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.4.dgf(v=185,e=3946))): 2^bw=235788, bw=17.85
+time: 999340
+Graph data/graphLib/freq/graph06-wpp.dgf (v=185,e=795).
+new bw: 9223372036854775807 -> 164993853030
+time: 1197388
+Graph data/graphLib/protein/1g3p_graph.dimacs (v=185,e=2221).
+new bw: 9223372036854775807 -> 2605056
+time: 1181615
+Graph data/graphLib/coloring/mulsol.i.5.dgf (v=186,e=3973).
+new bw: 9223372036854775807 -> 1269
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.5.dgf(v=186,e=3973))): 2^bw=11814, bw=13.53
+time: 1054148
+Graph data/graphLib/protein/1cuk_graph-pp.dimacs (v=186,e=2389).
+new bw: 9223372036854775807 -> 3319398
+time: 964781
+Graph data/graphLib/freq/graph04-wpp.dgf (v=187,e=690).
+new bw: 9223372036854775807 -> 15556371546112
+time: 1220819
+Graph data/graphLib/coloring/mulsol.i.2.dgf (v=188,e=3885).
+new bw: 9223372036854775807 -> 2752
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.2.dgf(v=188,e=3885))): 2^bw=268800, bw=18.04
+time: 1030403
+Graph data/graphLib/freq/graph02-wpp.dgf (v=188,e=673).
+new bw: 9223372036854775807 -> 2154355595673
+time: 1250776
+Graph data/graphLib/delauney/d198.tsp-pp.dgf (v=189,e=552).
+new bw: 9223372036854775807 -> 63753420
+time: 1108770
+Graph data/graphLib/freq/celar08-pp.dgf (v=189,e=1016).
+new bw: 9223372036854775807 -> 79052
+time: 1088044
+Graph data/graphLib/prob/munin1.dgf (v=189,e=366).
+new bw: 9223372036854775807 -> 229376
+time: 1122799
+Graph data/graphLib/protein/1cuk_graph.dimacs (v=189,e=2404).
+new bw: 9223372036854775807 -> 305345331
+time: 1047440
+Graph data/graphLib/freq/celar08-wpp.dgf (v=190,e=1017).
+new bw: 9223372036854775807 -> 196608
+time: 1116616
+Graph data/graphLib/coloring/myciel7.dgf (v=191,e=2360).
+new bw: 9223372036854775807 -> 2131558
+time: 1493586
+Graph data/graphLib/delauney/rat195.tsp-pp.dgf (v=192,e=554).
+new bw: 9223372036854775807 -> 15032385536
+time: 1236087
+Graph data/graphLib/delauney/rat195.tsp.dgf (v=195,e=562).
+new bw: 9223372036854775807 -> 11381663334
+time: 1256409
+warning: "data/graphLib/coloring/queen14_14.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen14_14.dgf (v=196,e=4186).
+new bw: 9223372036854775807 -> 27606908928
+time: 1356150
+Graph data/graphLib/coloring/mulsol.i.1.dgf (v=197,e=3925).
+new bw: 9223372036854775807 -> 105
+boolean-width(decomposition(data/graphLib/coloring/mulsol.i.1.dgf(v=197,e=3925))): 2^bw=105, bw=6.71
+time: 1267896
+Graph data/graphLib/delauney/kroA200.tsp-pp.dgf (v=197,e=578).
+new bw: 9223372036854775807 -> 86328842649
+time: 1473916
+Graph data/graphLib/delauney/kroB200.tsp-pp.dgf (v=197,e=572).
+new bw: 9223372036854775807 -> 15032385536
+time: 1427057
+Graph data/graphLib/delauney/d198.tsp.dgf (v=198,e=571).
+new bw: 9223372036854775807 -> 78014054
+time: 1366024
+Graph data/graphLib/delauney/kroA200.tsp.dgf (v=200,e=586).
+new bw: 9223372036854775807 -> 76879914598
+time: 1580814
+Graph data/graphLib/delauney/kroB200.tsp.dgf (v=200,e=580).
+new bw: 9223372036854775807 -> 4242957926
+time: 1600264
+Graph data/graphLib/freq/celar03.dgf (v=200,e=721).
+new bw: 9223372036854775807 -> 104857
+time: 1480760
+Graph data/graphLib/freq/celar05.dgf (v=200,e=681).
+new bw: 9223372036854775807 -> 1061683
+time: 1552532
+Graph data/graphLib/freq/celar07.dgf (v=200,e=817).
+new bw: 9223372036854775807 -> 73728
+time: 1460242
+Graph data/graphLib/freq/graph02.dgf (v=200,e=709).
+new bw: 9223372036854775807 -> 3040836845568
+time: 1749357
+Graph data/graphLib/freq/graph04.dgf (v=200,e=734).
+new bw: 9223372036854775807 -> 647681068236
+time: 1786148
+Graph data/graphLib/freq/graph06.dgf (v=200,e=843).
