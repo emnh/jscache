@@ -2529,3 +2529,38 @@ new bw: 9223372036854775807 -> 150
 boolean-width(decomposition(data/graphLib/coloring/zeroin.i.2.dgf(v=211,e=3541))): 2^bw=150, bw=7.23
 time: 1886525
 Graph data/graphLib/delauney/tsp225.tsp-pp.dgf (v=214,e=600).
+new bw: 9223372036854775807 -> 2673868
+time: 2117414
+Graph data/graphLib/other/gr216.dgf (v=216,e=1080).
+new bw: 9223372036854775807 -> 9147045537382
+time: 2509271
+Graph data/graphLib/prob/munin4-pp.dgf (v=217,e=646).
+new bw: 9223372036854775807 -> 80281
+time: 2189870
+Graph data/graphLib/prob/boblo.dgf (v=221,e=328).
+new bw: 9223372036854775807 -> 3942
+boolean-width(decomposition(data/graphLib/prob/boblo.dgf(v=221,e=328))): 2^bw=350448, bw=18.42
+time: 2466814
+warning: "data/graphLib/coloring/queen15_15.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen15_15.dgf (v=225,e=5180).
+new bw: 9223372036854775807 -> 57250571878
+time: 2387523
+Graph data/graphLib/delauney/tsp225.tsp.dgf (v=225,e=622).
+new bw: 9223372036854775807 -> 146028888064
+time: 2698636
+Graph data/graphLib/delauney/pr226.tsp.dgf (v=226,e=586).
+new bw: 9223372036854775807 -> 484966
+time: 2598639
+Graph data/graphLib/coloring/fpsol2.i.1-pp.dgf (v=233,e=10783).
+new bw: 9223372036854775807 -> 70916
+time: 2730933
+Graph data/graphLib/prob2/BN_42-pp.dgf (v=254,e=725).
+new bw: 9223372036854775807 -> 145930701675639603
+time: 4845808
+Graph data/graphLib/prob2/BN_43-pp.dgf (v=254,e=725).
+new bw: 9223372036854775807 -> 479858540296326348
+time: 4874710
+Graph data/graphLib/prob2/BN_44-pp.dgf (v=254,e=725).
+new bw: 9223372036854775807 -> 7421703487488
+time: 5021550
+Graph data/graphLib/prob2/BN_45-pp.dgf (v=254,e=725).
