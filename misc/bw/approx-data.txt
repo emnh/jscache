@@ -2564,3 +2564,13 @@ Graph data/graphLib/prob2/BN_44-pp.dgf (v=254,e=725).
 new bw: 9223372036854775807 -> 7421703487488
 time: 5021550
 Graph data/graphLib/prob2/BN_45-pp.dgf (v=254,e=725).
+new bw: 9223372036854775807 -> 278743377510
+time: 5050435
+warning: "data/graphLib/coloring/queen16_16.dgf" has duplicate edge (or is directed)
+Graph data/graphLib/coloring/queen16_16.dgf (v=256,e=6320).
+new bw: 9223372036854775807 -> 7041844668006
+time: 3999158
+Graph data/graphLib/delauney/gil262.tsp-pp.dgf (v=258,e=761).
+new bw: 9223372036854775807 -> 318418567403929
+time: 5235823
+Graph data/graphLib/delauney/a280.tsp-pp.dgf (v=261,e=749).
