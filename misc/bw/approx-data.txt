@@ -2574,3 +2574,37 @@ Graph data/graphLib/delauney/gil262.tsp-pp.dgf (v=258,e=761).
 new bw: 9223372036854775807 -> 318418567403929
 time: 5235823
 Graph data/graphLib/delauney/a280.tsp-pp.dgf (v=261,e=749).
+new bw: 9223372036854775807 -> 6871947673
+time: 5256020
+Graph data/graphLib/delauney/gil262.tsp.dgf (v=262,e=773).
+new bw: 9223372036854775807 -> 1387583674253312
+time: 5593182
+Graph data/graphLib/delauney/pr264.tsp-pp.dgf (v=263,e=770).
+new bw: 9223372036854775807 -> 2226511046246
+time: 5391058
+Graph data/graphLib/delauney/pr264.tsp.dgf (v=264,e=772).
+new bw: 9223372036854775807 -> 53472342835
+time: 5536069
+Graph data/graphLib/prob/munin4-wpp.dgf (v=271,e=724).
+new bw: 9223372036854775807 -> 645529
+time: 6383182
+Graph data/graphLib/freq/graph12-wpp.dgf (v=273,e=1127).
+new bw: 9223372036854775807 -> 677341383956522598
+time: 6725963
+Graph data/graphLib/delauney/a280.tsp.dgf (v=280,e=788).
+new bw: 9223372036854775807 -> 2093796556
+time: 7602068
+Graph data/graphLib/delauney/pr299.tsp-pp.dgf (v=286,e=828).
+new bw: 9223372036854775807 -> 91053306675
+time: 8081796
+Graph data/graphLib/delauney/pr299.tsp.dgf (v=299,e=864).
+new bw: 9223372036854775807 -> 127131031961
+time: 10157982
+Graph data/graphLib/freq/graph11-pp.dgf (v=307,e=1338).
+new bw: 9223372036854775807 -> 468374361246531584
+time: 11770196
+Graph data/graphLib/prob/link-pp.dgf (v=308,e=1158).
+new bw: 9223372036854775807 -> 70007966924
+time: 13384834
+Graph data/graphLib/freq/graph12-pp.dgf (v=312,e=1177).
+Graph data/graphLib/freq/graph11-wpp.dgf (v=313,e=1349).
