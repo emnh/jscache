@@ -2608,3 +2608,14 @@ new bw: 9223372036854775807 -> 70007966924
 time: 13384834
 Graph data/graphLib/freq/graph12-pp.dgf (v=312,e=1177).
 Graph data/graphLib/freq/graph11-wpp.dgf (v=313,e=1349).
+new bw: 9223372036854775807 -> 9380208574464
+time: 15321145
+Graph data/graphLib/freq/graph08-pp.dgf (v=314,e=1173).
+Graph data/graphLib/coloring/inithx.i.1-pp.dgf (v=317,e=12720).
+new bw: 9223372036854775807 -> 16449
+time: 12246113
+Graph data/graphLib/prob/munin2-wpp.dgf (v=317,e=674).
+new bw: 9223372036854775807 -> 80950067
+time: 13504270
+Graph data/graphLib/freq/graph08-wpp.dgf (v=318,e=1177).
+Graph data/graphLib/prob2/BN_65-pp.dgf (v=325,e=988).
