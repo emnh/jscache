@@ -173,7 +173,6 @@ new bw: 8 -> 7
 new bw: 7 -> 5
 boolean-width(decomposition(data/graphLib/prob2/BN_29.dgf(v=24,e=49))): 2^bw=5, bw=2.32
 time: 10183
-warning: "data/graphLib/coloring/queen5_5.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen5_5.dgf (v=25,e=160).
 new bw: 9223372036854775807 -> 51
 new bw: 51 -> 48
@@ -442,7 +441,6 @@ new bw: 10 -> 9
 new bw: 9 -> 8
 boolean-width(decomposition(data/graphLib/prob/mildew.dgf(v=35,e=80))): 2^bw=8, bw=3.00
 time: 10288
-warning: "data/graphLib/coloring/queen6_6.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen6_6.dgf (v=36,e=290).
 new bw: 9223372036854775807 -> 300
 new bw: 300 -> 261
@@ -786,7 +784,6 @@ new bw: 191 -> 189
 new bw: 189 -> 165
 boolean-width(decomposition(data/graphLib/protein/1rb9_graph.dimacs(v=48,e=412))): 2^bw=165, bw=7.37
 time: 10332
-warning: "data/graphLib/coloring/queen7_7.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen7_7.dgf (v=49,e=476).
 new bw: 9223372036854775807 -> 2136
 new bw: 2136 -> 2094
@@ -1484,7 +1481,6 @@ new bw: 9223372036854775807 -> 962
 new bw: 962 -> 954
 boolean-width(decomposition(data/graphLib/protein/1r69_graph.dimacs(v=63,e=692))): 2^bw=954, bw=9.90
 time: 10651
-warning: "data/graphLib/coloring/queen8_8.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen8_8.dgf (v=64,e=728).
 new bw: 9223372036854775807 -> 13107
 boolean-width(decomposition(data/graphLib/coloring/queen8_8.dgf(v=64,e=728))): 2^bw=26540, bw=14.70
@@ -1665,7 +1661,6 @@ Graph data/graphLib/protein/1i27_graph.dimacs (v=73,e=747).
 new bw: 9223372036854775807 -> 1382
 boolean-width(decomposition(data/graphLib/protein/1i27_graph.dimacs(v=73,e=747))): 2^bw=1382, bw=10.43
 time: 15411
-warning: "data/graphLib/coloring/huck.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/huck.dgf (v=74,e=301).
 new bw: 9223372036854775807 -> 36
 boolean-width(decomposition(data/graphLib/coloring/huck.dgf(v=74,e=301))): 2^bw=36, bw=5.17
@@ -1741,7 +1736,6 @@ Graph data/graphLib/prob2/BN_7-pp.dgf (v=79,e=478).
 new bw: 9223372036854775807 -> 619315
 boolean-width(decomposition(data/graphLib/prob2/BN_7-pp.dgf(v=79,e=478))): 2^bw=951353, bw=19.86
 time: 54496
-warning: "data/graphLib/coloring/jean.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/jean.dgf (v=80,e=254).
 new bw: 9223372036854775807 -> 147
 boolean-width(decomposition(data/graphLib/coloring/jean.dgf(v=80,e=254))): 2^bw=147, bw=7.20
@@ -1754,7 +1748,6 @@ Graph data/graphLib/freq/celar05-pp.dgf (v=80,e=426).
 new bw: 9223372036854775807 -> 2355
 boolean-width(decomposition(data/graphLib/freq/celar05-pp.dgf(v=80,e=426))): 2^bw=14628, bw=13.84
 time: 24110
-warning: "data/graphLib/coloring/queen9_9.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen9_9.dgf (v=81,e=1056).
 new bw: 9223372036854775807 -> 89292
 boolean-width(decomposition(data/graphLib/coloring/queen9_9.dgf(v=81,e=1056))): 2^bw=251145, bw=17.94
@@ -1773,14 +1766,12 @@ time: 56621
 Graph data/graphLib/prob2/BN_3-pp.dgf (v=81,e=401).
 new bw: 9223372036854775807 -> 884736
 time: 54410
-	at graph.PosSubSet.union(PosSubSet.java:321)
 Graph data/graphLib/prob2/BN_4-pp.dgf (v=81,e=530).
 new bw: 9223372036854775807 -> 134348
 time: 59036
 Graph data/graphLib/freq/graph03-wpp.dgf (v=84,e=299).
 new bw: 9223372036854775807 -> 707788
 time: 58850
-	at graph.PosSubSet.union(PosSubSet.java:327)
 Graph data/graphLib/delauney/pr124.tsp-pp.dgf (v=85,e=240).
 new bw: 9223372036854775807 -> 2121
 boolean-width(decomposition(data/graphLib/delauney/pr124.tsp-pp.dgf(v=85,e=240))): 2^bw=32390, bw=14.98
@@ -1801,7 +1792,6 @@ Graph data/graphLib/protein/1ctj_graph-pp.dimacs (v=86,e=929).
 new bw: 9223372036854775807 -> 3750
 boolean-width(decomposition(data/graphLib/protein/1ctj_graph-pp.dimacs(v=86,e=929))): 2^bw=35960, bw=15.13
 time: 42193
-warning: "data/graphLib/coloring/david.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/david.dgf (v=87,e=406).
 new bw: 9223372036854775807 -> 919
 boolean-width(decomposition(data/graphLib/coloring/david.dgf(v=87,e=406))): 2^bw=919, bw=9.84
@@ -1906,7 +1896,6 @@ time: 54886
 Graph data/graphLib/prob2/BN_13-pp.dgf (v=95,e=478).
 new bw: 9223372036854775807 -> 2634547
 time: 90980
-	at graph.PosSubSet.union(PosSubSet.java:321)
 Graph data/graphLib/prob2/BN_7.dgf (v=95,e=535).
 new bw: 9223372036854775807 -> 6030131
 time: 87976
@@ -1918,7 +1907,6 @@ Graph data/graphLib/protein/1c5e_graph.dimacs (v=95,e=1148).
 new bw: 9223372036854775807 -> 141312
 boolean-width(decomposition(data/graphLib/protein/1c5e_graph.dimacs(v=95,e=1148))): 2^bw=57218, bw=15.80
 time: 54426
-warning: "data/graphLib/coloring/queen8_12.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen8_12.dgf (v=96,e=1368).
 new bw: 9223372036854775807 -> 1611571
 time: 104151
@@ -1980,7 +1968,6 @@ Graph data/graphLib/protein/1lkk_graph-pp.dimacs (v=99,e=1142).
 new bw: 9223372036854775807 -> 3883
 boolean-width(decomposition(data/graphLib/protein/1lkk_graph-pp.dimacs(v=99,e=1142))): 2^bw=27849, bw=14.77
 time: 68159
-warning: "data/graphLib/coloring/queen10_10.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen10_10.dgf (v=100,e=1470).
 new bw: 9223372036854775807 -> 66252
 time: 126860
@@ -2202,7 +2189,6 @@ time: 135400
 Graph data/graphLib/protein/1gef_graph.dimacs (v=119,e=1492).
 new bw: 9223372036854775807 -> 145817
 time: 145356
-warning: "data/graphLib/coloring/games120.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/games120.dgf (v=120,e=638).
 new bw: 9223372036854775807 -> 9751756
 time: 187145
@@ -2216,7 +2202,6 @@ Graph data/graphLib/protein/1a62_graph-pp.dimacs (v=120,e=1507).
 new bw: 9223372036854775807 -> 46080
 boolean-width(decomposition(data/graphLib/protein/1a62_graph-pp.dimacs(v=120,e=1507))): 2^bw=569775, bw=19.12
 time: 149238
-warning: "data/graphLib/coloring/queen11_11.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen11_11.dgf (v=121,e=1980).
 new bw: 9223372036854775807 -> 17983078
 time: 207770
@@ -2261,27 +2246,22 @@ Graph data/graphLib/protein/1bkb_graph-pp.dimacs (v=127,e=1473).
 new bw: 9223372036854775807 -> 12032
 boolean-width(decomposition(data/graphLib/protein/1bkb_graph-pp.dimacs(v=127,e=1473))): 2^bw=103827, bw=16.66
 time: 173274
-warning: "data/graphLib/coloring/miles1000.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/miles1000.dgf (v=128,e=3216).
 new bw: 9223372036854775807 -> 571
 boolean-width(decomposition(data/graphLib/coloring/miles1000.dgf(v=128,e=3216))): 2^bw=571, bw=9.16
 time: 154570
-warning: "data/graphLib/coloring/miles1500.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/miles1500.dgf (v=128,e=5198).
 new bw: 9223372036854775807 -> 57
 boolean-width(decomposition(data/graphLib/coloring/miles1500.dgf(v=128,e=5198))): 2^bw=57, bw=5.83
 time: 144303
-warning: "data/graphLib/coloring/miles250.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/miles250.dgf (v=128,e=387).
 new bw: 9223372036854775807 -> 2368
 boolean-width(decomposition(data/graphLib/coloring/miles250.dgf(v=128,e=387))): 2^bw=58800, bw=15.84
 time: 184839
-warning: "data/graphLib/coloring/miles500.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/miles500.dgf (v=128,e=1170).
 new bw: 9223372036854775807 -> 49152
 boolean-width(decomposition(data/graphLib/coloring/miles500.dgf(v=128,e=1170))): 2^bw=546356, bw=19.06
 time: 167169
-warning: "data/graphLib/coloring/miles750.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/miles750.dgf (v=128,e=2113).
 new bw: 9223372036854775807 -> 3675
 boolean-width(decomposition(data/graphLib/coloring/miles750.dgf(v=128,e=2113))): 2^bw=3675, bw=11.84
@@ -2316,7 +2296,6 @@ Graph data/graphLib/delauney/pr136.tsp.dgf (v=136,e=377).
 new bw: 9223372036854775807 -> 20889
 boolean-width(decomposition(data/graphLib/delauney/pr136.tsp.dgf(v=136,e=377))): 2^bw=519508, bw=18.99
 time: 226650
-warning: "data/graphLib/coloring/anna.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/anna.dgf (v=138,e=493).
 new bw: 9223372036854775807 -> 2508
 boolean-width(decomposition(data/graphLib/coloring/anna.dgf(v=138,e=493))): 2^bw=610184, bw=19.22
@@ -2334,7 +2313,6 @@ Graph data/graphLib/freq/celar10-wpp.dgf (v=142,e=609).
 new bw: 9223372036854775807 -> 21094
 boolean-width(decomposition(data/graphLib/freq/celar10-wpp.dgf(v=142,e=609))): 2^bw=998784, bw=19.93
 time: 289485
-warning: "data/graphLib/coloring/queen12_12.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen12_12.dgf (v=144,e=2596).
 new bw: 9223372036854775807 -> 50855936
 time: 385735
@@ -2374,7 +2352,6 @@ time: 494663
 Graph data/graphLib/prob/munin2-pp.dgf (v=167,e=455).
 new bw: 9223372036854775807 -> 24985
 time: 639884
-warning: "data/graphLib/coloring/queen13_13.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen13_13.dgf (v=169,e=3328).
 new bw: 9223372036854775807 -> 1302750822
 time: 539514
@@ -2469,7 +2446,6 @@ time: 1236087
 Graph data/graphLib/delauney/rat195.tsp.dgf (v=195,e=562).
 new bw: 9223372036854775807 -> 11381663334
 time: 1256409
-warning: "data/graphLib/coloring/queen14_14.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen14_14.dgf (v=196,e=4186).
 new bw: 9223372036854775807 -> 27606908928
 time: 1356150
@@ -2541,7 +2517,6 @@ Graph data/graphLib/prob/boblo.dgf (v=221,e=328).
 new bw: 9223372036854775807 -> 3942
 boolean-width(decomposition(data/graphLib/prob/boblo.dgf(v=221,e=328))): 2^bw=350448, bw=18.42
 time: 2466814
-warning: "data/graphLib/coloring/queen15_15.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen15_15.dgf (v=225,e=5180).
 new bw: 9223372036854775807 -> 57250571878
 time: 2387523
@@ -2566,7 +2541,6 @@ time: 5021550
 Graph data/graphLib/prob2/BN_45-pp.dgf (v=254,e=725).
 new bw: 9223372036854775807 -> 278743377510
 time: 5050435
-warning: "data/graphLib/coloring/queen16_16.dgf" has duplicate edge (or is directed)
 Graph data/graphLib/coloring/queen16_16.dgf (v=256,e=6320).
 new bw: 9223372036854775807 -> 7041844668006
 time: 3999158
@@ -2619,3 +2593,44 @@ new bw: 9223372036854775807 -> 80950067
 time: 13504270
 Graph data/graphLib/freq/graph08-wpp.dgf (v=318,e=1177).
 Graph data/graphLib/prob2/BN_65-pp.dgf (v=325,e=988).
+Graph data/graphLib/prob2/BN_66-pp.dgf (v=325,e=988).
+Graph data/graphLib/prob2/BN_67-pp.dgf (v=325,e=988).
+Graph data/graphLib/prob2/BN_68-pp.dgf (v=325,e=988).
+Graph data/graphLib/coloring/school1_nsh-pp.dgf (v=327,e=14512).
+new bw: 9223372036854775807 -> 244184409702
+time: 11477756
+Graph data/graphLib/freq/graph10-pp.dgf (v=328,e=1253).
+new bw: 9223372036854775807 -> 199286482534
+time: 17261156
+Graph data/graphLib/prob/diabetes-wpp.dgf (v=332,e=662).
+new bw: 9223372036854775807 -> 76755763
+time: 17722763
+Graph data/graphLib/coloring/fpsol2.i.2-pp.dgf (v=333,e=7910).
+new bw: 9223372036854775807 -> 421992
+time: 14653175
+Graph data/graphLib/coloring/fpsol2.i.3-pp.dgf (v=333,e=7907).
+new bw: 9223372036854775807 -> 328115
+time: 14632405
+Graph data/graphLib/freq/graph10-wpp.dgf (v=335,e=1265).
+new bw: 9223372036854775807 -> 345876451382054092
+time: 18661967
+Graph data/graphLib/prob/link-wpp.dgf (v=339,e=1194).
+new bw: 9223372036854775807 -> 281535106252
+time: 20522609
+Graph data/graphLib/freq/celar04.dgf (v=340,e=1009).
+new bw: 9223372036854775807 -> 3265034138419
+time: 18680638
+Graph data/graphLib/freq/celar09.dgf (v=340,e=1130).
+new bw: 9223372036854775807 -> 2241436057
+time: 18924475
+Graph data/graphLib/freq/celar10.dgf (v=340,e=1130).
+new bw: 9223372036854775807 -> 946234982
+time: 18985801
+Graph data/graphLib/freq/celar11.dgf (v=340,e=975).
+new bw: 9223372036854775807 -> 363226726
+time: 18894257
+Graph data/graphLib/freq/graph08.dgf (v=340,e=1234).
+Graph data/graphLib/freq/graph10.dgf (v=340,e=1275).
+Graph data/graphLib/freq/graph11.dgf (v=340,e=1425).
+Graph data/graphLib/freq/graph11pp.dgf (v=340,e=1424).
+Graph data/graphLib/freq/graph12.dgf (v=340,e=1256).
