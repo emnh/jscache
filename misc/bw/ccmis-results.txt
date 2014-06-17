@@ -1832,3 +1832,75 @@
 { time: 1402828930472, graph: "data/graphLib/protein/1lkk_graph-pp.dimacs", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 8523, newBW: 13.06 }
 { time: 1402828930729, graph: "data/graphLib/protein/1lkk_graph-pp.dimacs", v: 99, e: 1142, CB: 8523, BW: 13.06 }
 { time: 1402828931314, graph: "data/graphLib/coloring/queen10_10.dgf", v: 100, e: 1470 }
+{ time: 1402957450057, graph: "data/graphLib/coloring/queen10_10.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 1503354, newBW: 20.52 }
+{ time: 1402957455476, graph: "data/graphLib/delauney/eil101.tsp-pp.dgf", v: 100, e: 288 }
+{ time: 1402957534716, graph: "data/graphLib/delauney/eil101.tsp-pp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 10064, newBW: 13.30 }
+{ time: 1402957534916, graph: "data/graphLib/delauney/eil101.tsp-pp.dgf", v: 100, e: 288, CB: 10064, BW: 13.30 }
+{ time: 1402957535096, graph: "data/graphLib/delauney/kroA100.tsp.dgf", v: 100, e: 285 }
+{ time: 1402957605650, graph: "data/graphLib/delauney/kroA100.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 23936, newBW: 14.55 }
+{ time: 1402957605874, graph: "data/graphLib/delauney/kroA100.tsp.dgf", v: 100, e: 285, CB: 23936, BW: 14.55 }
+{ time: 1402957606058, graph: "data/graphLib/delauney/kroB100.tsp.dgf", v: 100, e: 284 }
+{ time: 1402957646644, graph: "data/graphLib/delauney/kroB100.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 17072, newBW: 14.06 }
+{ time: 1402957646853, graph: "data/graphLib/delauney/kroB100.tsp.dgf", v: 100, e: 284, CB: 17072, BW: 14.06 }
+{ time: 1402957647064, graph: "data/graphLib/delauney/kroC100.tsp.dgf", v: 100, e: 286 }
+{ time: 1402957675689, graph: "data/graphLib/delauney/kroC100.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 4840, newBW: 12.24 }
+{ time: 1402957675876, graph: "data/graphLib/delauney/kroC100.tsp.dgf", v: 100, e: 286, CB: 4840, BW: 12.24 }
+{ time: 1402957676060, graph: "data/graphLib/delauney/kroE100.tsp.dgf", v: 100, e: 283 }
+{ time: 1402957789229, graph: "data/graphLib/delauney/kroE100.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 26452, newBW: 14.69 }
+{ time: 1402957789451, graph: "data/graphLib/delauney/kroE100.tsp.dgf", v: 100, e: 283, CB: 26452, BW: 14.69 }
+{ time: 1402957789653, graph: "data/graphLib/delauney/rd100.tsp.dgf", v: 100, e: 286 }
+{ time: 1402957840132, graph: "data/graphLib/delauney/rd100.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 13050, newBW: 13.67 }
+{ time: 1402957840339, graph: "data/graphLib/delauney/rd100.tsp.dgf", v: 100, e: 286, CB: 13050, BW: 13.67 }
+{ time: 1402957840547, graph: "data/graphLib/freq/celar02.dgf", v: 100, e: 311 }
+{ time: 1402957846288, graph: "data/graphLib/freq/celar02.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 546, newBW: 9.09 }
+{ time: 1402957846423, graph: "data/graphLib/freq/celar02.dgf", oldCB: 546, oldBW: 9.09, newCB: 270, newBW: 8.08 }
+{ time: 1402957846855, graph: "data/graphLib/freq/celar02.dgf", oldCB: 270, oldBW: 8.08, newCB: 242, newBW: 7.92 }
+{ time: 1402957847389, graph: "data/graphLib/freq/celar02.dgf", oldCB: 242, oldBW: 7.92, newCB: 224, newBW: 7.81 }
+{ time: 1402957847583, graph: "data/graphLib/freq/celar02.dgf", oldCB: 224, oldBW: 7.81, newCB: 216, newBW: 7.75 }
+{ time: 1402957847785, graph: "data/graphLib/freq/celar02.dgf", oldCB: 216, oldBW: 7.75, newCB: 210, newBW: 7.71 }
+{ time: 1402957850387, graph: "data/graphLib/freq/celar02.dgf", oldCB: 210, oldBW: 7.71, newCB: 160, newBW: 7.32 }
+{ time: 1402957850886, graph: "data/graphLib/freq/celar02.dgf", v: 100, e: 311, CB: 160, BW: 7.32 }
+{ time: 1402957851079, graph: "data/graphLib/freq/celar06.dgf", v: 100, e: 350 }
+{ time: 1402957856620, graph: "data/graphLib/freq/celar06.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 400, newBW: 8.64 }
+{ time: 1402957857629, graph: "data/graphLib/freq/celar06.dgf", oldCB: 400, oldBW: 8.64, newCB: 320, newBW: 8.32 }
+{ time: 1402957857958, graph: "data/graphLib/freq/celar06.dgf", oldCB: 320, oldBW: 8.32, newCB: 312, newBW: 8.29 }
+{ time: 1402957858753, graph: "data/graphLib/freq/celar06.dgf", oldCB: 312, oldBW: 8.29, newCB: 288, newBW: 8.17 }
+{ time: 1402957860297, graph: "data/graphLib/freq/celar06.dgf", oldCB: 288, oldBW: 8.17, newCB: 234, newBW: 7.87 }
+{ time: 1402957861564, graph: "data/graphLib/freq/celar06.dgf", v: 100, e: 350, CB: 234, BW: 7.87 }
+{ time: 1402957861758, graph: "data/graphLib/freq/graph01.dgf", v: 100, e: 358 }
+{ time: 1402958028789, graph: "data/graphLib/freq/graph01.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 578406, newBW: 19.14 }
+{ time: 1402958030352, graph: "data/graphLib/freq/graph01.dgf", v: 100, e: 358, CB: 578406, BW: 19.14 }
+{ time: 1402958030556, graph: "data/graphLib/freq/graph03.dgf", v: 100, e: 340 }
+{ time: 1402958368023, graph: "data/graphLib/freq/graph03.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 355180, newBW: 18.44 }
+{ time: 1402958369383, graph: "data/graphLib/freq/graph03.dgf", v: 100, e: 340, CB: 355180, BW: 18.44 }
+{ time: 1402958369617, graph: "data/graphLib/freq/graph05.dgf", v: 100, e: 416 }
+{ time: 1402958758211, graph: "data/graphLib/freq/graph05.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 230099, newBW: 17.81 }
+{ time: 1402958758827, graph: "data/graphLib/freq/graph05.dgf", v: 100, e: 416, CB: 230099, BW: 17.81 }
+{ time: 1402958759016, graph: "data/graphLib/prob2/BN_0.dgf", v: 100, e: 300 }
+{ time: 1402959134022, graph: "data/graphLib/prob2/BN_0.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 276710, newBW: 18.08 }
+{ time: 1402959134922, graph: "data/graphLib/prob2/BN_0.dgf", v: 100, e: 300, CB: 276710, BW: 18.08 }
+{ time: 1402959135114, graph: "data/graphLib/prob2/BN_1.dgf", v: 100, e: 394 }
+{ time: 1402959924756, graph: "data/graphLib/prob2/BN_1.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 909611, newBW: 19.79 }
+{ time: 1402959927055, graph: "data/graphLib/prob2/BN_1.dgf", v: 100, e: 394, CB: 909611, BW: 19.79 }
+{ time: 1402959927278, graph: "data/graphLib/prob2/BN_2.dgf", v: 100, e: 494 }
+{ time: 1402961669694, graph: "data/graphLib/prob2/BN_2.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 330904, newBW: 18.34 }
+{ time: 1402961671255, graph: "data/graphLib/prob2/BN_2.dgf", v: 100, e: 494, CB: 330904, BW: 18.34 }
+{ time: 1402961671469, graph: "data/graphLib/prob2/BN_3.dgf", v: 100, e: 451 }
+{ time: 1402964253719, graph: "data/graphLib/prob2/BN_3.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 1565862, newBW: 20.58 }
+{ time: 1402964256792, graph: "data/graphLib/prob2/BN_4.dgf", v: 100, e: 574 }
+{ time: 1402969748758, graph: "data/graphLib/prob2/BN_4.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 1713563, newBW: 20.71 }
+{ time: 1402969751953, graph: "data/graphLib/prob2/BN_8.dgf", v: 100, e: 420 }
+{ time: 1402972358023, graph: "data/graphLib/prob2/BN_8.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 1203561, newBW: 20.20 }
+{ time: 1402972360895, graph: "data/graphLib/protein/1i0v_graph.dimacs", v: 100, e: 1207 }
+{ time: 1402972898941, graph: "data/graphLib/protein/1i0v_graph.dimacs", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 26069, newBW: 14.67 }
+{ time: 1402972899283, graph: "data/graphLib/protein/1i0v_graph.dimacs", v: 100, e: 1207, CB: 26069, BW: 14.67 }
+{ time: 1402972899473, graph: "data/graphLib/delauney/eil101.tsp.dgf", v: 101, e: 290 }
+{ time: 1402972957148, graph: "data/graphLib/delauney/eil101.tsp.dgf", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 32032, newBW: 14.97 }
+{ time: 1402972957372, graph: "data/graphLib/delauney/eil101.tsp.dgf", v: 101, e: 290, CB: 32032, BW: 14.97 }
+{ time: 1402972957583, graph: "data/graphLib/protein/1erv_graph.dimacs", v: 101, e: 1267 }
+{ time: 1402973683400, graph: "data/graphLib/protein/1erv_graph.dimacs", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 25480, newBW: 14.64 }
+{ time: 1402973683725, graph: "data/graphLib/protein/1erv_graph.dimacs", v: 101, e: 1267, CB: 25480, BW: 14.64 }
+{ time: 1402973683942, graph: "data/graphLib/protein/1jhg_graph.dimacs", v: 101, e: 841 }
+{ time: 1402973809663, graph: "data/graphLib/protein/1jhg_graph.dimacs", oldCB: 9223372036854775807, oldBW: 63.00, newCB: 3272, newBW: 11.68 }
+{ time: 1402973809896, graph: "data/graphLib/protein/1jhg_graph.dimacs", v: 101, e: 841, CB: 3272, BW: 11.68 }
+{ time: 1402973810146, graph: "data/graphLib/prob2/BN_5-pp.dgf", v: 102, e: 613 }
