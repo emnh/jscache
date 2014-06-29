@@ -1,0 +1,3 @@
+[submodule "lib/typingtutor"]
+	path = lib/typingtutor
+	url = https://github.com/denisk20/TypingTutor
